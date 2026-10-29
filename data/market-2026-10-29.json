@@ -1,0 +1,214 @@
+{
+  "version": 3,
+  "observedAt": "2026-10-29",
+  "methodology": "Veřejné indexované výpisy Sreality; URL odkazuje na výsledkovou stránku, nikoli jednoznačný detail. Dostupnost a stav inzerátu nejsou potvrzeny. Nulové hodnoty rekonstrukce a odhadu prodeje znamenají NEVYHODNOCENO, nikoli nulové náklady.",
+  "items": [
+    {
+      "id": "market-20261029-0",
+      "created": 1793311200000,
+      "name": "3+1 U Stadionu 66 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Byt 3+1",
+      "area": 66,
+      "purchase": 3975000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/byty/mlada-boleslav?stav=dobry-stav&velikost=3%2B1",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 3975000
+        }
+      ]
+    },
+    {
+      "id": "market-20261029-1",
+      "created": 1793311200000,
+      "name": "3+1 Jilemnického 70 m²",
+      "location": "Mladá Boleslav III",
+      "type": "Byt 3+1",
+      "area": 70,
+      "purchase": 4998000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/byty/mlada-boleslav?stav=dobry-stav&velikost=3%2B1",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 4998000
+        }
+      ]
+    },
+    {
+      "id": "market-20261029-2",
+      "created": 1793311200000,
+      "name": "3+1 17. listopadu 87 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Byt 3+1",
+      "area": 87,
+      "purchase": 6200000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/byty/mlada-boleslav?stav=dobry-stav&velikost=3%2B1",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 6200000
+        }
+      ]
+    },
+    {
+      "id": "market-20261029-3",
+      "created": 1793311200000,
+      "name": "3+1 U Stadionu 72 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Byt 3+1",
+      "area": 72,
+      "purchase": 5890000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/byty/mlada-boleslav?stav=dobry-stav&velikost=3%2B1",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 5890000
+        }
+      ]
+    },
+    {
+      "id": "market-20261029-4",
+      "created": 1793311200000,
+      "name": "3+1 Jana Palacha 74 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Byt 3+1",
+      "area": 74,
+      "purchase": 6150000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/byty/mlada-boleslav?stav=dobry-stav&velikost=3%2B1",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 6150000
+        }
+      ]
+    },
+    {
+      "id": "market-20261029-5",
+      "created": 1793311200000,
+      "name": "RD Ptýrovec 160 m²",
+      "location": "Ptýrov – Ptýrovec",
+      "type": "Rodinný dům",
+      "area": 160,
+      "purchase": 4350000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/domy/mlada-boleslav?stav=v-rekonstrukci",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 4350000
+        }
+      ]
+    },
+    {
+      "id": "market-20261029-6",
+      "created": 1793311200000,
+      "name": "RD Strážiště 130 m²",
+      "location": "Strážiště",
+      "type": "Rodinný dům",
+      "area": 130,
+      "purchase": 3600000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/domy/mlada-boleslav?stav=v-rekonstrukci",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 3600000
+        }
+      ]
+    },
+    {
+      "id": "market-20261029-7",
+      "created": 1793311200000,
+      "name": "RD Ledce 111 m²",
+      "location": "Ledce",
+      "type": "Rodinný dům",
+      "area": 111,
+      "purchase": 4500000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/domy/mlada-boleslav?stav=v-rekonstrukci",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 4500000
+        }
+      ]
+    },
+    {
+      "id": "market-20261029-8",
+      "created": 1793311200000,
+      "name": "RD Galetova 147 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Rodinný dům",
+      "area": 147,
+      "purchase": 8490000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.sreality.cz/hledani/prodej/domy/mlada-boleslav?stav=v-rekonstrukci",
+      "source": "Sreality – indexovaný výpis",
+      "status": "neověřeno",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 8490000
+        }
+      ]
+    }
+  ]
+}
