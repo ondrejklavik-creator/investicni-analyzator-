@@ -1,7 +1,7 @@
 {
   "version": 3,
   "observedAt": "2026-10-29",
-  "methodology": "Veřejné indexované výpisy Sreality; URL odkazuje na výsledkovou stránku, nikoli jednoznačný detail. Dostupnost a stav inzerátu nejsou potvrzeny. Nulové hodnoty rekonstrukce a odhadu prodeje znamenají NEVYHODNOCENO, nikoli nulové náklady.",
+  "methodology": "Veřejné indexované výpisy Sreality; URL odkazuje na výsledkovou stránku, nikoli jednoznačný detail. Dostupnost a stav inzerátu nejsou potvrzeny. Nulové hodnoty rekonstrukce a odhadu prodeje znamenají NEVYHODNOCENO, nikoli nulové náklady. Rozšířeno o veřejné výpisy Bezrealitky, Reality iDNES a detail RealityMIX. Některé URL vedou na výsledkové stránky. Záznamy mohou být duplicitní napříč portály.",
   "items": [
     {
       "id": "market-20261029-0",
@@ -207,6 +207,144 @@
         {
           "date": "2026-10-29",
           "price": 8490000
+        }
+      ]
+    },
+    {
+      "id": "multi-20261029-0",
+      "created": 1793311200000,
+      "name": "Byt 3+kk Dukelská 60 m²",
+      "location": "Mladá Boleslav",
+      "type": "Byt 3+kk",
+      "area": 60,
+      "purchase": 6200000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.bezrealitky.cz/vypis/nabidka-prodej/byt/mlada-boleslav",
+      "source": "Bezrealitky",
+      "status": "ověřit aktuálnost",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 6200000
+        }
+      ]
+    },
+    {
+      "id": "multi-20261029-1",
+      "created": 1793311200000,
+      "name": "Byt 3+kk U stadionu 64 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Byt 3+kk",
+      "area": 64,
+      "purchase": 5699000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.bezrealitky.cz/vypis/nabidka-prodej/byt/mlada-boleslav",
+      "source": "Bezrealitky",
+      "status": "ověřit aktuálnost",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 5699000
+        }
+      ]
+    },
+    {
+      "id": "multi-20261029-2",
+      "created": 1793311200000,
+      "name": "Byt 2+kk Na Radouči 42 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Byt 2+kk",
+      "area": 42,
+      "purchase": 5390000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://www.bezrealitky.cz/vypis/nabidka-prodej/byt/mlada-boleslav",
+      "source": "Bezrealitky",
+      "status": "ověřit aktuálnost",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 5390000
+        }
+      ]
+    },
+    {
+      "id": "multi-20261029-3",
+      "created": 1793311200000,
+      "name": "Byt 3+1 Komenského náměstí 113 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Byt 3+1",
+      "area": 113,
+      "purchase": 8900000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://reality.idnes.cz/s/prodej/byty/3%2B1/mlada-boleslav/",
+      "source": "Reality iDNES",
+      "status": "ověřit aktuálnost",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 8900000
+        }
+      ]
+    },
+    {
+      "id": "multi-20261029-4",
+      "created": 1793311200000,
+      "name": "Byt 2+1 Havlíčkova 69 m²",
+      "location": "Mladá Boleslav II",
+      "type": "Byt 2+1",
+      "area": 69,
+      "purchase": 5200000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://reality.idnes.cz/s/prodej/byty/?s-l=CAST_OBCE-96610&s-rd=3",
+      "source": "Reality iDNES",
+      "status": "ověřit aktuálnost",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 5200000
+        }
+      ]
+    },
+    {
+      "id": "multi-20261029-5",
+      "created": 1793311200000,
+      "name": "RD Galetova 147 m² před rekonstrukcí",
+      "location": "Mladá Boleslav II",
+      "type": "Rodinný dům",
+      "area": 147,
+      "purchase": 8750000,
+      "renovation": 0,
+      "other": 0,
+      "reserve": 15,
+      "resale": 0,
+      "url": "https://realitymix.cz/detail/mlada-boleslav/prodej-rodinny-dum-147-8713663.html",
+      "source": "RealityMIX",
+      "status": "ověřit aktuálnost",
+      "analysisStatus": "nevyhodnoceno",
+      "priceHistory": [
+        {
+          "date": "2026-10-29",
+          "price": 8750000
         }
       ]
     }
