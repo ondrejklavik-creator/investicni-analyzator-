@@ -33,3 +33,16 @@ Preferovat stav před rekonstrukcí a domy s více podlažími; studie nebo tvrz
 ## Kontroly aplikace
 node test-unit.cjs (test používá data/reality.json; očekávání počtů odpovídá výchozímu snapshotu 31. 10. 2026).
 Zkontrolovat načtení v prohlížeči, datum, odkazy, archiv a absenci NaN. Import nesmí smazat ručně vyplněné odhady.
+
+
+## Nové údaje pro verzi 1.2
+- pipeline.last_scheduled_publication: čas úspěšného skutečného naplánovaného zápisu. Při ručním zásahu neměnit. První běh zůstává null, dokud nedoložen.
+- pipeline.last_attempt_at a last_attempt_status: skutečný pokus a výsledek. U chyby zachovat poslední úspěšnou kontrolu, data i datum úspěšné publikace; uvést srozumitelnou chybu v update_message a run_history, pokud lze zprávu zapsat.
+- run_history: přidávat at, kind (naplánovaná/ruční), status a note; zachovat historii. Jen skutečný úspěšný zápis označit published.
+- U stávajících items zachovat first_seen_at a baseline. Novým skutečně poprvé dohledaným nabídkám přidat first_seen_at s aktuálním datem a baseline:false. Výchozí migrované nabídky mají baseline:true a nemají se vydávat za novinky.
+- priceHistory: date, price, url, verification. Zdrojové ceny neplést s ručními modely. Nový den lze zaznamenat i při stejné ceně; neduplikovat stejné pozorování. Web zobrazuje poslední změnu mezi rozdílnými cenami.
+- comparables: každý záznam vyžaduje stabilní id a property_id pro ověřenou identitu, city, district, street, layout, area_m2 (čistá plocha bytu), price_czk, condition, ownership, url, source, checked_at, verified:true, status:active a observations. Hodnoty condition: Před rekonstrukcí, Po rekonstrukci, Udržovaný, Novostavba, Nezjištěno. Nezaměňovat rekonstrukci domu za rekonstrukci bytu.
+- Použít exclude_reason pro rozporné výměry, zvláštní podmínky ceny apod. Rezervace mají status:reserved; zmizelé nepotvrzené inzeráty status:unconfirmed. Web je uchová jako podklad, vyřadí ze statistik. Novostavby a družstevní byty mají vlastní skupiny. Vlastnictví neodhadovat.
+- Při shodném property_id uchovat observations a doplnit aktuální pozorování; nikdy nezahazovat starší historii. Změna plochy má být viditelná v poznámce, nesmí se vydávat za změnu tržní ceny za m². Srovnání používá poslední ověření každého bytu do 30 dnů, nikoli všechny dny téže nabídky.
+- Před vytvořením automatického odhadu ceny je nutných alespoň 5 skutečně srovnatelných bytů ve stejné části, dispozici, stavu, vlastnictví a podobné ploše. Samotný medián skupiny není odhad prodeje. Výstup zatím záměrně ponechává prodejní cenu kalkulačky na uživatelově podloženém odhadu.
+- Kalkulačka ve webu počítá limit pro cílové ROI z celkových nákladů nebo cílový zisk před daní; náklady zahrnují rezervu, financování, dobu držení, provoz a prodej. Úroky se modelují jednoduše ze stálé čerpané části kupní ceny. Zátěžový scénář je model, nikoli predikce trhu.
