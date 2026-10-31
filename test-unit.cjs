@@ -1,0 +1,20 @@
+const vm=require('vm'),fs=require('fs'),assert=require('assert/strict');
+class Element{constructor(){this.children=[];this.textContent='';this.value='';this.disabled=false;this.elements={namedItem:()=>new Element()}}append(...x){this.children.push(...x)}replaceChildren(){this.children=[]}addEventListener(){}scrollIntoView(){}reset(){}}
+const dom=new Map();const get=id=>{if(!dom.has(id))dom.set(id,new Element());return dom.get(id)};get('viewMode').value='current';get('sort').value='roi';
+const storage=new Map();const ctx=vm.createContext({document:{getElementById:get,createElement:()=>new Element()},localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},crypto:require('crypto').webcrypto,URL,Intl,Date,console,setTimeout,FormData:class{},window:{scrollTo(){}},fetch:()=>new Promise(()=>{}),alert(){},confirm:()=>true});
+const html=fs.readFileSync('index.html','utf8');vm.runInContext(html.match(/<script>([\s\S]*?)<\/script>/)[1],ctx);
+const run=s=>vm.runInContext(s,ctx);ctx.feed=JSON.parse(fs.readFileSync('data/reality.json','utf8'));
+run('mergeFeed(feed,true);render();showFeedStatus()');assert.equal(get('count').textContent,10);assert.equal(get('roi').textContent,'Nevyhodnoceno');assert.match(get('feedStatus').textContent,/31\. 10\. 2026/);
+assert.equal(run('items.length'),26);assert.equal(run('items.filter(x=>x.archived).length'),16);
+assert.equal(run('items.filter(x=>!x.archived&&safeURL(x.url)).length'),10);
+run('mergeFeed(feed,true)');assert.equal(run('items.length'),26);assert.equal(run('items.find(x=>!x.archived).priceHistory.length'),1);
+run("Object.assign(items.find(x=>!x.archived),{renovation:1000000,other:100000,resale:5000000,analysisStatus:'manual'});mergeFeed(feed,true)");
+assert.equal(run('items.find(x=>!x.archived).renovation'),1000000);
+assert.equal(run('calc(items.find(x=>!x.archived)).profit'),1760000);
+run("feed.items[0].purchase=1900000;feed.items[0].priceHistory.push({date:'2026-11-01',price:1900000});mergeFeed(feed,true);mergeFeed(feed,true)");assert.equal(run('items.find(x=>!x.archived).priceHistory.length'),2);
+const before=run('JSON.stringify(items)');assert.throws(()=>run('mergeFeed({items:[{}]},true)'));assert.equal(run('JSON.stringify(items)'),before);
+assert.equal(run("safeURL('javascript:alert(1)')"),false);
+run("feed.items[0].archived=true;mergeFeed(feed,true);feed.items[0].archived=false;mergeFeed(feed,true)");assert.equal(run('items.find(x=>x.id===feed.items[0].id).archived'),false);
+run("showFeedStatus('HTTP 503')");assert.match(get('feedStatus').textContent,/Načtení selhalo/);
+assert.equal(run('Number.isFinite(calc({purchase:1,renovation:null,resale:null}).roi)'),true);
+console.log('PASS: 10 current / 16 archived, schema normalization, metadata date, safe URLs, idempotence, manual estimates, price history, validation rollback, unarchive, error status, no NaN');
