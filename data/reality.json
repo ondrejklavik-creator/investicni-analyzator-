@@ -6802,7 +6802,7 @@
     }
   ],
   "github_written": true,
-  "published_at": "2026-11-07T23:25:04Z",
+  "published_at": "2026-11-07T23:26:19Z",
   "last_successful_check": "2026-11-08",
   "update_status": "partial",
   "update_message": "Kontrola 8. 11. 2026 pokryla výběr z 12 požadovaných portálů a 11 dalších zdrojů včetně místních kanceláří. Některé detaily vracely chybu nebo starší verzi. Nově ověřen 1 kandidát, obnoveny 3 dříve evidované nabídky, zjištěny 4 změny načtených nabídkových cen. Přibylo 8 srovnávacích podkladů a obnovena Purkyňova. Pezinská je nadále rezervována. Soubor Vaněčkova je k prověření pro rozdílnou cenu a rozsah. Celkem 23 aktuálních kandidátů a 47 srovnávacích záznamů, z nichž 22 vstupuje do statistik. V jednotlivých skupinách je nedostatek dat pro automatické ocenění.",
@@ -7508,88 +7508,14 @@
       "archived_at": "2026-11-07",
       "archive_category": "additional_object",
       "archive_reason": "7.11.2026 detail při opakovaném otevření HTTP 404. Poslední úspěšné checked_at 6.11. zachováno; zmizení není důkaz prodeje."
-    },
-    {
-      "verified": false,
-      "status": "unconfirmed",
-      "first_seen_at": "2026-11-08",
-      "baseline": false,
-      "checked_at": null,
-      "last_attempt_at": "2026-11-08",
-      "id": "next-N118604",
-      "name": "Soubor jednotek v činžovním domě, Vaněčkova",
-      "city": "Benátky nad Jizerou",
-      "district": "Benátky nad Jizerou I",
-      "street": "Vaněčkova",
-      "address": "Vaněčkova 77/1, Benátky nad Jizerou I",
-      "location": "Benátky nad Jizerou I – Vaněčkova",
-      "type": "Činžovní dům – soubor jednotek",
-      "layout": "Byty, nebytový prostor a půda",
-      "condition": "Před rekonstrukcí",
-      "area": null,
-      "advertised_building_area_m2": 660,
-      "land_area_m2": null,
-      "advertised_land_area_m2": 333,
-      "floors": 3,
-      "floor": null,
-      "ownership": null,
-      "price": null,
-      "purchase": null,
-      "price_per_m2_czk": null,
-      "url": "https://www.videobydleni.cz/detail/4431233/prodej-cinzovniho-domu-benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova-660m2",
-      "source": "Videobydleni.cz",
-      "alternate_urls": [
-        "https://www.nextreality.cz/detail/118604/prodej-komercniho-objektu-cinzovni-dum-660-m"
-      ],
-      "detail_verified": true,
-      "recommended": false,
-      "photos_verified": false,
-      "linkType": "detail-overen",
-      "archive_category": "additional_object",
-      "archived": true,
-      "archived_at": "2026-11-08",
-      "archive_reason": "Podrobné detaily stejné zakázky N118604 uvádějí různý rozsah a cenu. Videobydlení (údaj aktualizován 7. 11.) uvádí 12 800 000 Kč a jednotky 2 i 3 mimo prodej. Starší načtený detail NEXT uvádí 14 800 000 Kč a mimo prodej pouze jednotku 2. Plocha 660 m² se vztahuje k domu. Plocha ani cena stejného převáděného souboru nejsou potvrzené.",
-      "notes": "Podrobné detaily stejné zakázky N118604 uvádějí různý rozsah a cenu. Videobydlení (údaj aktualizován 7. 11.) uvádí 12 800 000 Kč a jednotky 2 i 3 mimo prodej. Starší načtený detail NEXT uvádí 14 800 000 Kč a mimo prodej pouze jednotku 2. Plocha 660 m² se vztahuje k domu. Plocha ani cena stejného převáděného souboru nejsou potvrzené.",
-      "multi_unit_evidence": {
-        "description": "Inzerát cituje prohlášení vlastníka a výměry bytů. Právní rozsah prodeje ani možnost vestavby nebyly nezávisle doloženy.",
-        "permit_verified": false
-      },
-      "renovation": null,
-      "other": null,
-      "resale": null,
-      "reserve": 15,
-      "analysisStatus": "nevyhodnoceno",
-      "related_offer_ids": [
-        "sreality-3327508556",
-        "sreality-2028593228",
-        "sreality-2068168780"
-      ],
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 12800000,
-          "area": null,
-          "url": "https://www.videobydleni.cz/detail/4431233/prodej-cinzovniho-domu-benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova-660m2",
-          "verification": "retrieved_detail_scope_and_price_conflict",
-          "status": "unconfirmed"
-        },
-        {
-          "date": "2026-11-08",
-          "price": 14800000,
-          "area": null,
-          "url": "https://www.nextreality.cz/detail/118604/prodej-komercniho-objektu-cinzovni-dum-660-m",
-          "verification": "retrieved_detail_scope_and_price_conflict",
-          "status": "unconfirmed"
-        }
-      ]
     }
   ],
   "pipeline": {
-    "last_scheduled_publication": "2026-11-07T23:25:04Z",
+    "last_scheduled_publication": "2026-11-07T23:26:19Z",
     "last_manual_publication": "2026-10-31T18:58:30.455040+00:00",
     "scheduled_publication_status": "published",
     "note": "Denní publikace 8. 11. 2026. Výběrová kontrola a omezení jsou popsány u zdrojů.",
-    "last_attempt_at": "2026-11-07T23:25:04Z",
+    "last_attempt_at": "2026-11-07T23:26:19Z",
     "last_attempt_status": "published"
   },
   "run_history": [
@@ -7715,7 +7641,7 @@
       "snapshot": "data/history/reality-2026-11-06T23-48-13Z.json"
     },
     {
-      "at": "2026-11-07T23:25:04Z",
+      "at": "2026-11-07T23:26:19Z",
       "kind": "naplánovaná",
       "status": "published",
       "checked_at": "2026-11-08",
@@ -7735,7 +7661,20 @@
       "note": "Tři vrácené nabídky mají potvrzenou aktuální cenu. Osm nových srovnávacích podkladů mění složení vzorku. Souborný prodej ve Vaněčkově má rozdílnou cenu a rozsah, jeho cenový rozdíl není započten.",
       "new_items": 1,
       "archived_unconfirmed": 1,
-      "snapshot": "data/history/reality-2026-11-07T23-24-53Z.json"
+      "snapshot": "data/history/reality-2026-11-07T23-24-53Z.json",
+      "compatibility_backup": "data/history/reality-2026-11-07T23-26-06Z.json",
+      "publication_attempts": [
+        {
+          "at": "2026-11-07T23:25:04Z",
+          "status": "web_validation_failed",
+          "note": "Import aplikace odmítl položku Vaněčkova v hlavním archivu, protože vyžaduje kladnou cenu a plochu."
+        },
+        {
+          "at": "2026-11-07T23:26:19Z",
+          "status": "published",
+          "note": "Nepotvrzený soubor zapsán do odděleného archivu dalších objektů. Cena i výměra převodu zůstaly null."
+        }
+      ]
     }
   ],
   "additional_objects_review": {
@@ -7922,6 +7861,82 @@
     "url": "https://www.sreality.cz/detail/prodej/komercni/ubytovani/mlada-boleslav-mlada-boleslav-/3665883212",
     "unconfirmed_ids": [
       "next-N118604"
+    ],
+    "archive": [
+      {
+        "verified": false,
+        "status": "unconfirmed",
+        "first_seen_at": "2026-11-08",
+        "baseline": false,
+        "checked_at": null,
+        "last_attempt_at": "2026-11-08",
+        "id": "next-N118604",
+        "name": "Soubor jednotek v činžovním domě, Vaněčkova",
+        "city": "Benátky nad Jizerou",
+        "district": "Benátky nad Jizerou I",
+        "street": "Vaněčkova",
+        "address": "Vaněčkova 77/1, Benátky nad Jizerou I",
+        "location": "Benátky nad Jizerou I – Vaněčkova",
+        "type": "Činžovní dům – soubor jednotek",
+        "layout": "Byty, nebytový prostor a půda",
+        "condition": "Před rekonstrukcí",
+        "area": null,
+        "advertised_building_area_m2": 660,
+        "land_area_m2": null,
+        "advertised_land_area_m2": 333,
+        "floors": 3,
+        "floor": null,
+        "ownership": null,
+        "price": null,
+        "purchase": null,
+        "price_per_m2_czk": null,
+        "url": "https://www.videobydleni.cz/detail/4431233/prodej-cinzovniho-domu-benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova-660m2",
+        "source": "Videobydleni.cz",
+        "alternate_urls": [
+          "https://www.nextreality.cz/detail/118604/prodej-komercniho-objektu-cinzovni-dum-660-m"
+        ],
+        "detail_verified": true,
+        "recommended": false,
+        "photos_verified": false,
+        "linkType": "detail-overen",
+        "archive_category": "additional_object",
+        "archived": true,
+        "archived_at": "2026-11-08",
+        "archive_reason": "Podrobné detaily stejné zakázky N118604 uvádějí různý rozsah a cenu. Videobydlení (údaj aktualizován 7. 11.) uvádí 12 800 000 Kč a jednotky 2 i 3 mimo prodej. Starší načtený detail NEXT uvádí 14 800 000 Kč a mimo prodej pouze jednotku 2. Plocha 660 m² se vztahuje k domu. Plocha ani cena stejného převáděného souboru nejsou potvrzené.",
+        "notes": "Podrobné detaily stejné zakázky N118604 uvádějí různý rozsah a cenu. Videobydlení (údaj aktualizován 7. 11.) uvádí 12 800 000 Kč a jednotky 2 i 3 mimo prodej. Starší načtený detail NEXT uvádí 14 800 000 Kč a mimo prodej pouze jednotku 2. Plocha 660 m² se vztahuje k domu. Plocha ani cena stejného převáděného souboru nejsou potvrzené.",
+        "multi_unit_evidence": {
+          "description": "Inzerát cituje prohlášení vlastníka a výměry bytů. Právní rozsah prodeje ani možnost vestavby nebyly nezávisle doloženy.",
+          "permit_verified": false
+        },
+        "renovation": null,
+        "other": null,
+        "resale": null,
+        "reserve": 15,
+        "analysisStatus": "nevyhodnoceno",
+        "related_offer_ids": [
+          "sreality-3327508556",
+          "sreality-2028593228",
+          "sreality-2068168780"
+        ],
+        "priceHistory": [
+          {
+            "date": "2026-11-08",
+            "price": 12800000,
+            "area": null,
+            "url": "https://www.videobydleni.cz/detail/4431233/prodej-cinzovniho-domu-benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova-660m2",
+            "verification": "retrieved_detail_scope_and_price_conflict",
+            "status": "unconfirmed"
+          },
+          {
+            "date": "2026-11-08",
+            "price": 14800000,
+            "area": null,
+            "url": "https://www.nextreality.cz/detail/118604/prodej-komercniho-objektu-cinzovni-dum-660-m",
+            "verification": "retrieved_detail_scope_and_price_conflict",
+            "status": "unconfirmed"
+          }
+        ]
+      }
     ]
   },
   "comparable_sample_summary": {
