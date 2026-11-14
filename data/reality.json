@@ -1,10 +1,10 @@
 {
   "schema_version": 3,
   "version": 3,
-  "collected_at": "2026-11-14",
+  "collected_at": "2026-11-15",
   "scope": "Mladá Boleslav a okolí do 30 km; hlavní výběr čtyři požadovaná města",
   "coverage": "partial_public_web_search_not_exhaustive",
-  "verification_note": "Datum kontroly označuje načtení detailu nebo ověření výslovného stavu. Část detailů je z mezipaměti. Právní stav, výnosy, realizační ceny a fotografie nebyly u nových položek nezávisle ověřeny.",
+  "verification_note": "Datum kontroly označuje načtení přímého detailu nebo ověření výslovného stavu. Část detailů je z mezipaměti. Ceny jsou nabídkové. Právní stav, realizační ceny a výnosy nebyly nezávisle ověřeny.",
   "items": [
     {
       "id": "sreality-3329929292",
@@ -19,7 +19,7 @@
       "floors": 2,
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-pricna/3329929292",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": true,
@@ -146,6 +146,14 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-pricna/3329929292",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 1990000,
+          "area": 100,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-pricna/3329929292",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "alternate_urls": [
@@ -169,7 +177,7 @@
       "status": "active",
       "priority": 1,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-323231820",
@@ -184,7 +192,7 @@
       "floors": 3,
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-budovcova/323231820",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": true,
@@ -311,6 +319,14 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-budovcova/323231820",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5990000,
+          "area": 500,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-budovcova/323231820",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 5990000,
@@ -331,7 +347,7 @@
       "status": "active",
       "priority": 2,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "bazos-225685993",
@@ -346,7 +362,7 @@
       "floors": null,
       "source": "Bazoš",
       "url": "https://reality.bazos.cz/inzerat/225685993/rodinny-dum-k-rekonstrukci-270-m-pozemek-372-m.php",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": true,
@@ -473,6 +489,14 @@
           "url": "https://reality.bazos.cz/inzerat/225685993/rodinny-dum-k-rekonstrukci-270-m-pozemek-372-m.php",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 9735000,
+          "area": 270,
+          "url": "https://reality.bazos.cz/inzerat/225685993/rodinny-dum-k-rekonstrukci-270-m-pozemek-372-m.php",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 9735000,
@@ -493,7 +517,7 @@
       "status": "active",
       "priority": 3,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "alternate_urls": [
         "https://www.sreality.cz/detail/prodej/dum/vicegeneracni-dum/mlada-boleslav-mlada-boleslav-iii-kominicke-schody/3829596236"
       ]
@@ -505,8 +529,8 @@
       "floor": null,
       "ownership": "Osobní",
       "photos_verified": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-10",
       "baseline": false,
       "verified": true,
@@ -588,6 +612,14 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/bakov-nad-jizerou-bakov-nad-jizerou-cechova/4006244428",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 8980000,
+          "area": 294,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/bakov-nad-jizerou-bakov-nad-jizerou-cechova/4006244428",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -616,7 +648,7 @@
         "permit_verified": false
       },
       "commission_czk": null,
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": false,
@@ -734,11 +766,19 @@
           "url": "https://www.ceskereality.cz/prodej/rodinne-domy/rodinne-domy/benatky-nad-jizerou/prodej-rodinneho-domu-186-m2-prazska-3930799.html",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 8780000,
+          "area": 186,
+          "url": "https://www.ceskereality.cz/prodej/rodinne-domy/rodinne-domy/benatky-nad-jizerou/prodej-rodinneho-domu-186-m2-prazska-3930799.html",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority": 4,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "status": "active"
     },
     {
@@ -754,7 +794,7 @@
       "floors": 3,
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-cejetice-gorkeho/333923148",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": false,
@@ -875,6 +915,14 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-cejetice-gorkeho/333923148",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 9500000,
+          "area": 200,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-cejetice-gorkeho/333923148",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 9500000,
@@ -896,7 +944,7 @@
       "priority": 5,
       "priority_basis": "Priorita k ověření technických a právních podmínek; není potvrzená ziskovost.",
       "archived": false,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "archive_reason": "6.11.2026 iDNES jednou načten za 9 500 000 Kč, opakování HTTP 429; Sreality stejné zakázky 2026015 načtena za 9 990 000 Kč (starší verze). Rozpor není potvrzené denní zlevnění. Do vyjasnění mimo aktuální výběr; checked_at posledního nesporného stavu 5.11. zachováno. 7.11.2026 iDNES 429, Bazoš stejného popisu 9 500 000 Kč, Sreality stále 9 990 000 Kč. Cenový rozpor trvá.",
       "alternate_urls": [
         "https://reality.bazos.cz/inzerat/225988304/prodej-dvougeneracniho-rodinneho-domu-42-cejetice-mlada-b.php",
@@ -931,7 +979,7 @@
         "description": "Dvě podlaží; plán více bytů ani povolení nezveřejněny.",
         "permit_verified": false
       },
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
@@ -1049,11 +1097,19 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-hluboka/3683614796",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 2990000,
+          "area": 95,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-hluboka/3683614796",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority": 6,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "status": "active"
     },
     {
@@ -1071,8 +1127,8 @@
       "linkType": "detail-overen",
       "first_seen_at": "2026-11-09",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "status": "active",
       "renovation": null,
       "resale": null,
@@ -1164,6 +1220,14 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-cejeticky-dlouha/3404267596",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6900000,
+          "area": 206.7,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-cejeticky-dlouha/3404267596",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -1180,7 +1244,7 @@
       "floors": 2,
       "source": "NEXT REALITY HARMONY",
       "url": "https://www.nextreality.cz/detail/120080/prodej-rodinneho-domu-147-m",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": false,
@@ -1323,6 +1387,14 @@
           "url": "https://www.nextreality.cz/detail/120080/prodej-rodinneho-domu-147-m",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 7990000,
+          "area": 147.9,
+          "url": "https://www.nextreality.cz/detail/120080/prodej-rodinneho-domu-147-m",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 7990000,
@@ -1343,7 +1415,7 @@
       "status": "active",
       "priority": 6.5,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "archived_at": "2026-11-07",
       "archive_reason": "7.11.2026 načten rozpor stejné zakázky N120080: Bazoš 7 990 000 Kč, Sreality 8 490 000 Kč, NEXT REALITY 8 750 000 Kč. Různé stáří cache; cena pro koupi nepotvrzena. Poslední nesporné checked_at 6.11. ponecháno; není důkaz prodeje.",
       "alternate_urls": [
@@ -1374,7 +1446,7 @@
       "price_per_m2_czk": 68812,
       "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
@@ -1492,6 +1564,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "first_seen_at": "2026-11-01",
@@ -1504,7 +1584,7 @@
       "notes": "Družstevní byt; dvě koupelny a WC. Rozdělení na 3+1 a 1+kk jen návrh prodejce, povolení ani souhlas družstva nedoložen. Anuita 28 000, převody 15 000 + 6 000 Kč. Ověřit čistou plochu. Cena 6 950 000 Kč potvrzena živě na přímém detailu RE/MAX a v detailu Sreality, shodná zakázka 320-NP00404. Anuita a uvedené převodní poplatky jsou další náklady.",
       "priority": 7,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "status": "active",
       "alternate_urls": [
         "https://www.remax-czech.cz/reality/detail/447897/prodej-bytu-4-1-v-druzstevnim-vlastnictvi-101-m2-mlada-boleslav"
@@ -1539,8 +1619,8 @@
       "purchase": 8690000,
       "price_per_m2_czk": 57933,
       "source": "Sreality",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
@@ -1627,6 +1707,14 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-komenskeho/1561436236",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 8690000,
+          "area": 150,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-komenskeho/1561436236",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority_basis": "Priorita technické a právní prověrky, nikoli potvrzená ziskovost."
@@ -1659,7 +1747,7 @@
       "purchase": 7990000,
       "price_per_m2_czk": 55486,
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
@@ -1754,10 +1842,18 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-arnoldova/507646796",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 7990000,
+          "area": 144,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-arnoldova/507646796",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority_basis": "Pořadí technické a právní prověrky; bez podloženého rozpočtu a prodejní ceny není potvrzená ziskovost.",
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "bezrealitky-1049644",
@@ -1772,7 +1868,7 @@
       "floors": null,
       "source": "Bezrealitky",
       "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1049644-nabidka-prodej-bytu-lidicka-mnichovo-hradiste",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": false,
@@ -1899,6 +1995,14 @@
           "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1049644-nabidka-prodej-bytu-lidicka-mnichovo-hradiste",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 3990000,
+          "area": 59.1,
+          "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1049644-nabidka-prodej-bytu-lidicka-mnichovo-hradiste",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 3990000,
@@ -1917,7 +2021,7 @@
       "floor": 8,
       "priority": 8,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "address": "S. K. Neumanna 880/2, Mladá Boleslav III",
@@ -1926,8 +2030,8 @@
       "floor": 1,
       "ownership": "Osobní",
       "photos_verified": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-10",
       "baseline": false,
       "verified": true,
@@ -1999,6 +2103,14 @@
           "url": "https://realt.cz/prodej-byt-2-1-stredocesky-kraj-mlada-boleslav-mlada-boleslav-iii-s-k-neumanna-880-2-64-m2-2122606",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4790000,
+          "area": 64,
+          "url": "https://realt.cz/prodej-byt-2-1-stredocesky-kraj-mlada-boleslav-mlada-boleslav-iii-s-k-neumanna-880-2-64-m2-2122606",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -2007,8 +2119,8 @@
       "status": "active",
       "first_seen_at": "2026-11-07",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "id": "sreality-3095658572",
       "name": "Byt 2+1, Havlíčkova, 50 m²",
       "city": "Mladá Boleslav",
@@ -2098,6 +2210,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/3095658572",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4490000,
+          "area": 50,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/3095658572",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -2124,7 +2244,7 @@
       "purchase": 5400000,
       "price_per_m2_czk": 75000,
       "source": "M&M Reality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
@@ -2211,10 +2331,18 @@
           "url": "https://www.mmreality.cz/nemovitosti/957404/",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5400000,
+          "area": 72,
+          "url": "https://www.mmreality.cz/nemovitosti/957404/",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority_basis": "Pořadí technické a právní prověrky; bez podloženého rozpočtu a prodejní ceny není potvrzená ziskovost.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "alternate_urls": [
         "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-iii-jilemnickeho/2844201036"
       ]
@@ -2228,8 +2356,8 @@
       "floors": 3,
       "floor": 2,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-13",
       "baseline": false,
       "verified": true,
@@ -2281,6 +2409,14 @@
           "url": "https://www.ceskereality.cz/prodej/byty/byty-2-1/mlada-boleslav/prodej-bytu-2-1-68-m2-dukelska-3910738.html",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5190000,
+          "area": 63,
+          "url": "https://www.ceskereality.cz/prodej/byty/byty-2-1/mlada-boleslav/prodej-bytu-2-1-68-m2-dukelska-3910738.html",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -2305,7 +2441,7 @@
       "price_per_m2_czk": 62742,
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2028593228",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
@@ -2429,6 +2565,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2028593228",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 3890000,
+          "area": 62,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2028593228",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "first_seen_at": "2026-10-31",
@@ -2441,7 +2585,7 @@
       "notes": "Před rekonstrukcí; památkové území. Titulek Vaněčkova, text Husovo náměstí; přesná adresa neověřena.",
       "priority": 9,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "status": "active",
       "related_offer_ids": [
         "next-N118604"
@@ -2470,7 +2614,7 @@
       "purchase": 4890000,
       "price_per_m2_czk": 56860,
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
@@ -2573,10 +2717,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2068168780",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4890000,
+          "area": 86,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2068168780",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority_basis": "Priorita technické a právní prověrky; bez podloženého rozpočtu a prodejní ceny není potvrzena ziskovost.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "related_offer_ids": [
         "next-N118604"
       ]
@@ -2594,7 +2746,7 @@
       "floors": 3,
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-mlada-boleslav-s-k-neumanna/3218584396",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": false,
@@ -2683,6 +2835,14 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-mlada-boleslav-s-k-neumanna/3218584396",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 12990000,
+          "area": 198,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-mlada-boleslav-s-k-neumanna/3218584396",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 12990000,
@@ -2692,7 +2852,7 @@
       "baseline": true,
       "first_seen_at": "2026-10-31",
       "archived": false,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "attempts": [
         {
           "date": "2026-11-03",
@@ -2736,7 +2896,7 @@
       "price_per_m2_czk": 114750,
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/809287756",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": false,
@@ -2820,6 +2980,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/809287756",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4590000,
+          "area": 40,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/809287756",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "first_seen_at": "2026-10-31",
@@ -2833,14 +3001,14 @@
       "priority": 9.2,
       "priority_basis": "Priorita právní a technické prověrky; ziskovost nedoložena.",
       "archived": false,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "archive_reason": "3. 11. 2026 detail opakovaně HTTP 404; dostupnost nepotvrzena. Poslední checked_at 2.11. ponecháno; zmizení není důkaz prodeje.",
       "status": "active",
       "restored_at": "2026-11-08"
     },
     {
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": false,
@@ -2951,6 +3119,14 @@
           "url": "https://www.ersreality.cz/prodej-rodinneho-domu-mnichovo-hradiste-okres-mlada-boleslav-prodej-rodinneho-domu-200-m2-mnichovo-hradiste-centrum-651",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 11900000,
+          "area": 200,
+          "url": "https://www.ersreality.cz/prodej-rodinneho-domu-mnichovo-hradiste-okres-mlada-boleslav-prodej-rodinneho-domu-200-m2-mnichovo-hradiste-centrum-651",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority_basis": "Pořadí k technické a právní prověrce. Bez ověřeného rozpočtu rekonstrukce, rezervy, dalších nákladů a srovnatelné prodejní ceny nelze potvrdit ziskovost."
@@ -2968,7 +3144,7 @@
       "floors": null,
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/4081324108",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": false,
@@ -3073,6 +3249,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/4081324108",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4990000,
+          "area": 69.14,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/4081324108",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 4990000,
@@ -3084,7 +3268,7 @@
       "condition": "Před rekonstrukcí",
       "city": "Mladá Boleslav",
       "archived": false,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "status": "active",
       "district": "Mladá Boleslav II",
       "street": "Havlíčkova",
@@ -3099,8 +3283,8 @@
       "floor": 8
     },
     {
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": false,
@@ -3201,6 +3385,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-iii-s-k-neumanna/4008968268",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5190000,
+          "area": 62,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-iii-s-k-neumanna/4008968268",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority_basis": "Pořadí k technické a právní prověrce. Bez ověřeného rozpočtu rekonstrukce, rezervy, dalších nákladů a srovnatelné prodejní ceny nelze potvrdit ziskovost."
@@ -3211,8 +3403,8 @@
       "land_area_m2": null,
       "floors": 5,
       "floor": 2,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-11",
       "baseline": false,
       "verified": true,
@@ -3279,6 +3471,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/benatky-nad-jizerou-benatky-nad-jizerou-ii-platanova/3408203852",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5650000,
+          "area": 73.5,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/benatky-nad-jizerou-benatky-nad-jizerou-ii-platanova/3408203852",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -3291,8 +3491,8 @@
       "land_area_m2": null,
       "floor": 4,
       "floors": 8,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-14",
       "baseline": false,
       "verified": true,
@@ -3337,6 +3537,14 @@
           "url": "https://realt.cz/prodej-byt-3-1-stredocesky-kraj-mlada-boleslav-mlada-boleslav-ii-havlickova-1211-82-m2-2139453",
           "verification": "live_browser_detail",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6150000,
+          "area": 76,
+          "url": "https://realt.cz/prodej-byt-3-1-stredocesky-kraj-mlada-boleslav-mlada-boleslav-ii-havlickova-1211-82-m2-2139453",
+          "verification": "live_browser_detail",
+          "status": "active"
         }
       ]
     },
@@ -3347,8 +3555,8 @@
       "floor": 2,
       "ownership": "Osobní",
       "photos_verified": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-10",
       "baseline": false,
       "verified": true,
@@ -3420,6 +3628,14 @@
           "url": "https://www.realitnieso.cz/detail/prodej/byt/3%2B1/0-m2/mlada-boleslav-ul-smetanova/4429737",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5750000,
+          "area": 82,
+          "url": "https://www.realitnieso.cz/detail/prodej/byt/3%2B1/0-m2/mlada-boleslav-ul-smetanova/4429737",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -3431,8 +3647,8 @@
       "land_area_m2": null,
       "floors": 3,
       "floor": 3,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-12",
       "baseline": false,
       "verified": true,
@@ -3490,6 +3706,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-palackeho/2295341132",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5500000,
+          "area": 75,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-palackeho/2295341132",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -3506,7 +3730,7 @@
       "floors": null,
       "source": "Realitní ESO",
       "url": "https://www.realitnieso.cz/detail/prodej/dum/rodinny/0-m2/benatky-nad-jizerou-ul-husovo-namesti/4412721",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": false,
@@ -3633,6 +3857,14 @@
           "url": "https://www.realitnieso.cz/detail/prodej/dum/rodinny/0-m2/benatky-nad-jizerou-ul-husovo-namesti/4412721",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 14900000,
+          "area": 280,
+          "url": "https://www.realitnieso.cz/detail/prodej/dum/rodinny/0-m2/benatky-nad-jizerou-ul-husovo-namesti/4412721",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 14900000,
@@ -3653,7 +3885,7 @@
       "status": "active",
       "priority": 11,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-2911051852",
@@ -3668,7 +3900,7 @@
       "floors": 1,
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-/2911051852",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "linkType": "detail-overen",
       "detail_verified": true,
       "photos_verified": true,
@@ -3795,6 +4027,14 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-/2911051852",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 1899999,
+          "area": 77,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mnichovo-hradiste-mnichovo-hradiste-/2911051852",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "purchase": 1899999,
@@ -3812,7 +4052,7 @@
       "status": "active",
       "priority": 12,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-3078737996",
@@ -3842,7 +4082,7 @@
       "purchase": 4390000,
       "price_per_m2_czk": 93404,
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
@@ -3945,10 +4185,18 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-mlada-boleslav-iv-ptacka/3078737996",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4390000,
+          "area": 47,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-mlada-boleslav-iv-ptacka/3078737996",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "priority_basis": "Priorita technické a právní prověrky; bez podloženého rozpočtu a prodejní ceny není potvrzena ziskovost.",
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "district": "Chudoplesy",
@@ -3959,8 +4207,8 @@
       "land_area_m2": null,
       "floor": null,
       "floors": null,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-14",
       "baseline": false,
       "verified": true,
@@ -4006,6 +4254,75 @@
           "area": 140,
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/bakov-nad-jizerou-chudoplesy-/2037346380",
           "verification": "live_browser_detail",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 8500000,
+          "area": 140,
+          "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/bakov-nad-jizerou-chudoplesy-/2037346380",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "address": null,
+      "ownership": null,
+      "land_area_m2": 881,
+      "floor": null,
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
+      "first_seen_at": "2026-11-15",
+      "baseline": false,
+      "status": "active",
+      "verified": true,
+      "detail_verified": true,
+      "photos_verified": false,
+      "main_photo_url": null,
+      "recommended": false,
+      "linkType": "detail-overen",
+      "verification_status": "detail_verified",
+      "renovation": null,
+      "other": null,
+      "resale": null,
+      "reserve": 15,
+      "analysisStatus": "nevyhodnoceno",
+      "priority_basis": "Pořadí k technické a právní prověrce. Úplné náklady a návratnost vyžadují doložení.",
+      "id": "sreality-460026700",
+      "name": "Vícegenerační dům se čtyřmi byty, Nad Vinicemi",
+      "city": "Benátky nad Jizerou",
+      "district": "Benátky nad Jizerou I",
+      "street": "Nad Vinicemi",
+      "location": "Benátky nad Jizerou I – Nad Vinicemi",
+      "type": "Rodinný dům",
+      "layout": "2 × 2+kk a 2 × 3+1",
+      "condition": "Velmi dobrý dle inzerátu, kolaudace 2014",
+      "area": 393,
+      "floors": 3,
+      "price": 20990000,
+      "purchase": 20990000,
+      "price_per_m2_czk": 53410,
+      "source": "Sreality / CENTURY 21 Dream",
+      "url": "https://www.sreality.cz/detail/prodej/dum/vicegeneracni-dum/benatky-nad-jizerou-benatky-nad-jizerou-i-nad-vinicemi/460026700",
+      "alternate_urls": [
+        "https://www.eurobydleni.cz/moderni-dum-se-4-bytovymi-jednotkami-vyhledem-do-krajiny-a-velkym-pozemkem-v-benatkach-nad-jizerou/detail/10039436/"
+      ],
+      "priority": 17,
+      "notes": "Zakázka 973479. Inzerát popisuje dvě samostatné poloviny, každou s 2+kk a 3+1. Ze 393 m² užitné plochy uvádí 352,8 m² obytné a cca 40 m² sklepa. Rodinný dům z roku 2014 má nižší prioritu než starší domy k rekonstrukci. Ověřit právní vymezení a technickou samostatnost bytů. V popisu je plynový kotel, v parametrech kotel na tuhá paliva. Číslo domu nezveřejněno. Galerie je v detailu dostupná, jednotlivé fotografie nebyly samostatně ověřeny.",
+      "multi_unit_evidence": {
+        "level": "stávající_jednotky_dle_inzerenta",
+        "units": 4,
+        "description": "Inzerent konkrétně popisuje čtyři stávající jednotky ve dvou polovinách. Samostatná kolaudace jednotek nebyla doložena.",
+        "permit_verified": false
+      },
+      "priceHistory": [
+        {
+          "date": "2026-11-15",
+          "price": 20990000,
+          "area": 393,
+          "url": "https://www.sreality.cz/detail/prodej/dum/vicegeneracni-dum/benatky-nad-jizerou-benatky-nad-jizerou-i-nad-vinicemi/460026700",
+          "verification": "retrieved_detail_may_be_cached",
           "status": "active"
         }
       ]
@@ -5842,6 +6159,150 @@
       "status": "partial",
       "notes": "Detail bytu 3+kk Jiráskova v Mnichově Hradišti je označen jako prodaný. Žádný nový aktivní detail z kontrolovaného výběru.",
       "checked_at": "2026-11-14"
+    },
+    {
+      "source": "Sreality",
+      "status": "partial",
+      "notes": "Přímé detaily ve čtyřech městech čitelné, část z mezipaměti. U Stadionu 631554124, 17. listopadu 1155993676 a Pezinská 2246971468 HTTP 404. U Erbenovy načtené odlišné cenové verze a živý přechod na stránku souhlasů. Nad Vinicemi a 17. listopadu doloženy přímými detaily.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Bezrealitky",
+      "status": "detail",
+      "notes": "Čitelné přímé detaily Lidická, U Stadionu a Na Radouči. Galerie samostatně neověřeny. Na Radouči podmíněná cena.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Reality iDNES",
+      "status": "partial",
+      "notes": "Čitelná zprostředkovaná detailní nabídka N116136 na Staroměstském náměstí ze starší verze. Hlavní ověření přímo u NEXT. Pokrytí výběrové.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "RealityMIX",
+      "status": "partial",
+      "notes": "Přímý detail N116136 čitelný, potvrzuje cenu a dispozice. Malá Bělá 8482453 již mimo databázi. Zobrazení může být z mezipaměti.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Reality.cz",
+      "status": "detail",
+      "notes": "Přímý detail CNF-990475 čitelný za 4,25 mil. Kč. Jičínská je dle textu pronajatá, podmínky nájmu neověřeny.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "RE/MAX",
+      "status": "detail",
+      "notes": "Čitelné přímé detaily Skalsko 444616, Luštěnice 425520 a U Stadionu 447967. U bytu 447967 dál rozporné parametry.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "M&M Reality",
+      "status": "detail",
+      "notes": "Čitelné přímé detaily Jilemnického 957404 a U Stadionu 959030. Dnešní záznamy potvrzují dříve uložené ceny.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "CENTURY 21",
+      "status": "blocked",
+      "notes": "Vlastní web HTTP 403. Zakázku 973479 potvrzují Sreality a druhý katalog. Vlastní výpis kanceláře neověřen.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Bidli",
+      "status": "partial",
+      "notes": "Úvodní stránka i detail Bakov 210625 čitelné. Detail stále uvádí dřívější plán dokončení a cenu bez parkování a sklepa. Současná dostupnost samostatně nepotvrzena.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Bazoš",
+      "status": "partial",
+      "notes": "Kominické schody a Galetova přímé detaily čitelné. Dukelská 226401971 v nástroji nedostupná. Aktuální zakázka Dukelská ověřena u Reality Direct.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Dumrealit.cz",
+      "status": "listing_only",
+      "notes": "Úvodní web dostupný. Nový přímý lokální detail s ověřenou dostupností se z kontrolovaného výběru nepodařilo získat.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "eReality",
+      "status": "listing_only",
+      "notes": "Úvod a okresní výpis 4+1 dostupné. Nový konkrétní detail dnešní změny samostatně nepotvrdil.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "NEXT REALITY HARMONY",
+      "status": "detail",
+      "notes": "Živý detail N116136 a čitelný detail Galetova. N116136 uvádí adresu odlišnou od přepisu na REALT. Právní stav a nájemní smlouvy neověřeny.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Navrátil Reality",
+      "status": "detail",
+      "notes": "Živý detail rekonstruovaného bytu Erbenova potvrzuje 5,25 mil. Kč. Jiné načtené portálové verze uvádějí 5,4 mil. Kč. Změna mezi běhy nepotvrzena.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "FRS MB",
+      "status": "detail",
+      "notes": "Pezinská 00418 nadále výslovně rezervována. Dále čitelné Jana Palacha a Vondřichova, u níž se anuita uvádí zvlášť.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "REALT",
+      "status": "partial",
+      "notes": "Havlíčkova 1211 živě za 6,15 mil. Kč. Ladislava Vágnera HTTP 410. Přepis N116136 uvádí jiné číslo domu než makléř.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "ANDI Reality",
+      "status": "detail",
+      "notes": "Přímý detail Jana Palacha nadále rezervovaný.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "ERS Reality",
+      "status": "detail",
+      "notes": "Přímé detaily Masarykovo náměstí a Horní Cetno čitelné.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "ConRe",
+      "status": "detail",
+      "notes": "Přímý detail Havlíčkova 1553 uvádí cenu na dotaz a rozporné číselné údaje o výměře.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Reality Direct",
+      "status": "detail",
+      "notes": "Přímý detail Dukelská 3+kk za 5,89 mil. Kč, vlastnictví nezveřejněno. Bez dalšího duplicitního záznamu.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "ČESKÉREALITY",
+      "status": "partial",
+      "notes": "Čitelné přímé detaily Pražská, Dukelská a rezervovaná Lidická. Na Radouči 3889742 bez detailu nabídky.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Realitní ESO",
+      "status": "detail",
+      "notes": "Přímé detaily Smetanova, Husovo náměstí a Palackého čitelné.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Videobydlení",
+      "status": "detail",
+      "notes": "Přímé detaily Palackého 53 m² a Vaněčkova čitelné. Vaněčkova nadále v archivu kvůli nejasnému rozsahu převodu.",
+      "checked_at": "2026-11-15"
+    },
+    {
+      "source": "Eurobydlení",
+      "status": "partial",
+      "notes": "Detail Nad Vinicemi dohledán s cenou shodnou se Sreality. Podrobnější zdroj zůstává Sreality.",
+      "checked_at": "2026-11-15"
     }
   ],
   "excluded": [
@@ -6021,12 +6482,12 @@
     ],
     "prior_file_id": "libfile_5229a5071e488191aaaa226537880777",
     "latest_run": {
-      "checked_at": "2026-11-14",
-      "new_investment_properties": 2,
-      "new_additional_objects": 0,
-      "restored_additional_objects": 1,
+      "checked_at": "2026-11-15",
+      "new_investment_properties": 1,
+      "new_additional_objects": 1,
+      "restored_additional_objects": 0,
       "unconfirmed_additional_objects": 0,
-      "new_comparables": 5,
+      "new_comparables": 2,
       "restored_items": 0,
       "restored_comparables": 0,
       "price_changes": 0,
@@ -6036,8 +6497,8 @@
       "reserved_items": 0,
       "new_reserved_comparables": 0,
       "unconfirmed_comparables": 0,
-      "price_conflicts": 2,
-      "note": "Nový patrový dům Chudoplesy a byt Havlíčkova 1211 v původním stavu, oba s poznámkou k nejednoznačným údajům. Obnoven činžovní objekt u Pražské brány pod původním ID. Pět nových srovnávacích záznamů mimo statistiky, jedno upřesnění plochy. Žádná potvrzená změna nabídkové ceny."
+      "price_conflicts": 1,
+      "note": "Nový vícegenerační dům v Benátkách, nižší priorita vzhledem k roku kolaudace, a odděleně činžovní dům v Mladé Boleslavi. Dva nové srovnávací záznamy, jeden mimo statistiky pro anuitu a rozpornou výměru. U Erbenovy různé aktuálně dostupné verze, živý detail makléře potvrzuje poslední uloženou cenu. Pezinská zůstává rezervována podle přímé kanceláře."
     },
     "price_conflicts": [
       {
@@ -6197,6 +6658,23 @@
           }
         ],
         "note": "První záchyt, zdrojový rozpor a odměna RK mimo cenu. Vyřazeno ze statistik."
+      },
+      {
+        "id": "sreality-3373338700",
+        "checked_at": "2026-11-15",
+        "observations": [
+          {
+            "source": "Navrátil Reality – živý detail",
+            "price": 5250000,
+            "url": "https://navratilreality.com/PropertyDetail?id=6acf3cbd12e348aefb3b6bce"
+          },
+          {
+            "source": "Sreality – načtený detail",
+            "price": 5400000,
+            "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-erbenova/3373338700"
+          }
+        ],
+        "note": "Shodný popis, byt 2+1 a 66 m² a shodný makléř. V dalších verzích Sreality 5,25 mil. Kč. Živý detail makléře potvrzuje poslední uloženou cenu. Změna mezi běhy nepotvrzena."
       }
     ],
     "resolved_conflicts": [
@@ -6235,7 +6713,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-husova/1798303820",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": " 5.11. zachyceno trvající obsazení bytu; nevydávám za nově vzniklý nájem.",
@@ -6358,10 +6836,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-husova/1798303820",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4556611,
+          "area": 47,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-husova/1798303820",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 96949,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-2197606476",
@@ -6377,7 +6863,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-jana-palacha/2197606476",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Titulek a parametr 43 m², text 45 m². Fotografie obsahují vizualizaci.",
@@ -6500,10 +6986,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-jana-palacha/2197606476",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4490000,
+          "area": 43,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-jana-palacha/2197606476",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 104419,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-809287756",
@@ -6519,7 +7013,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/809287756",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Detail obnoven po prvním 404, opakovaně načten za 4 590 000 Kč. Jiná zakázka a popis než pronajatý byt 3709870156.",
@@ -6602,10 +7096,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/809287756",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4590000,
+          "area": 40,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/809287756",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 114750,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-226889804",
@@ -6621,7 +7123,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/226889804",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Rekonstrukce bytu 2020 podle inzerátu. 6.11.2026 opakovaně načtena celková cena 6 690 000 Kč, původních 6 990 000 Kč přeškrtnuto. Přesný okamžik změny neznámý.",
@@ -6744,10 +7246,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/226889804",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6690000,
+          "area": 84,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/226889804",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 79643,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-588451916",
@@ -6763,7 +7273,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/588451916",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Dne 1. 11. zjištěno věcné břemeno, cena nezměněna; původní dispozice 2+1 upravena na 3+1.",
@@ -6886,10 +7396,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/588451916",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 3975000,
+          "area": 66,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/588451916",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 60227,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-631554124",
@@ -7015,7 +7533,7 @@
         }
       ],
       "price_per_m2_czk": 79028,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-2475896908",
@@ -7031,7 +7549,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2475896908",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Parametr užitné plochy 80 m²; balkon uváděn zvlášť. 3.11. obnoven otevřený detail a cena 6,3 mil. Kč, předchozí neúspěšné pokusy zachovány.",
@@ -7138,9 +7656,17 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2475896908",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6300000,
+          "area": 80,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2475896908",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "price_per_m2_czk": 78750,
       "attempts": [
         {
@@ -7164,7 +7690,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2723987532",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Čtyři lodžie. Ověřit užitnou plochu bez lodžií.",
@@ -7287,10 +7813,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2723987532",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5790000,
+          "area": 79,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2723987532",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 73291,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-2566651980",
@@ -7306,7 +7840,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/bakov-nad-jizerou-bakov-nad-jizerou-druzstevni/2566651980",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Byt rekonstruován 2019 podle inzerátu. Detail místní RK N316 potvrzuje identitu, cenu a rekonstrukci bytu 2019; nejde o další byt.",
@@ -7429,13 +7963,21 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/bakov-nad-jizerou-bakov-nad-jizerou-druzstevni/2566651980",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5850000,
+          "area": 59,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/bakov-nad-jizerou-bakov-nad-jizerou-druzstevni/2566651980",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 99153,
       "alternate_urls": [
         "https://www.realitybilikova.cz/detail/prodej-bytu-31-bakov-nad-jizerou/316.htm"
       ],
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-134918220",
@@ -7451,7 +7993,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/bakov-nad-jizerou-bakov-nad-jizerou-zizkova/134918220",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "58 m² bez lodžie; parkování v ceně; text uvádí kolaudaci 2024, parametr 2023.",
@@ -7574,10 +8116,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/bakov-nad-jizerou-bakov-nad-jizerou-zizkova/134918220",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6290000,
+          "area": 58,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/bakov-nad-jizerou-bakov-nad-jizerou-zizkova/134918220",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 108448,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-852553804",
@@ -7593,7 +8143,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mnichovo-hradiste-mnichovo-hradiste-vita-nejedleho/852553804",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Původní udržovaný byt, rekonstruovaný dům. Plocha v textu celková.",
@@ -7716,10 +8266,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mnichovo-hradiste-mnichovo-hradiste-vita-nejedleho/852553804",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5390000,
+          "area": 89,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mnichovo-hradiste-mnichovo-hradiste-vita-nejedleho/852553804",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 60562,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-3545252684",
@@ -7735,7 +8293,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mnichovo-hradiste-mnichovo-hradiste-jaselska/3545252684",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Text 67,19 m² podlahové, titulek a parametr užitné plochy 72 m².",
@@ -7858,10 +8416,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mnichovo-hradiste-mnichovo-hradiste-jaselska/3545252684",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4990000,
+          "area": 67.19,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mnichovo-hradiste-mnichovo-hradiste-jaselska/3545252684",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 74267,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-2565690956",
@@ -7877,7 +8443,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mnichovo-hradiste-mnichovo-hradiste-v-cestkach/2565690956",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Projekt ve výstavbě; reklama financování obsahuje staré datum. Dostupnost konkrétní jednotky ověřit.",
@@ -8000,10 +8566,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mnichovo-hradiste-mnichovo-hradiste-v-cestkach/2565690956",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5300000,
+          "area": 54,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mnichovo-hradiste-mnichovo-hradiste-v-cestkach/2565690956",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 98148,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-3277377612",
@@ -8019,7 +8593,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/mnichovo-hradiste-mnichovo-hradiste-komenskeho/3277377612",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Cena podmíněna koupí bez hypotéky.",
@@ -8142,10 +8716,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/mnichovo-hradiste-mnichovo-hradiste-komenskeho/3277377612",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 2990000,
+          "area": 95,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/mnichovo-hradiste-mnichovo-hradiste-komenskeho/3277377612",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 31474,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-2028593228",
@@ -8161,7 +8743,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2028593228",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "Historický dům; ověřit památkové podmínky.",
@@ -8284,10 +8866,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2028593228",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 3890000,
+          "area": 62,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2028593228",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 62742,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "related_offer_ids": [
         "next-N118604"
       ]
@@ -8306,7 +8896,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-krouskeho/1970679884",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "note": "73,2 m² v textu, titulek zaokrouhlen 73; sklep navíc.",
@@ -8429,10 +9019,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-krouskeho/1970679884",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5790000,
+          "area": 73.2,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-krouskeho/1970679884",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 79098,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-369213516",
@@ -8448,7 +9046,7 @@
       "ownership": "Osobní",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/benatky-nad-jizerou-benatky-nad-jizerou-i-drazicka/369213516",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "reserved",
       "note": "Závazná rezervace.",
@@ -8571,10 +9169,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/benatky-nad-jizerou-benatky-nad-jizerou-i-drazicka/369213516",
           "verification": "retrieved_detail_may_be_cached",
           "status": "reserved"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4390000,
+          "area": 55,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/benatky-nad-jizerou-benatky-nad-jizerou-i-drazicka/369213516",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "reserved"
         }
       ],
       "price_per_m2_czk": 79818,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "location": "Mladá Boleslav, U stadionu",
@@ -8585,7 +9191,7 @@
       "condition": "Po rekonstrukci",
       "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1081095-nabidka-prodej-bytu-u-stadionu-mlada-boleslav",
       "source": "Bezrealitky",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "status": "active",
       "note": "Jeden nabídkový vzorek, nikoli tržní benchmark ani realizovaná cena. 2. 11. shodný text, 64 m², 8. NP, cena 5 699 000 na Sreality 3728277580; sloučeno, není nový byt. Přímý detail téhož bytu v osobním vlastnictví uvádí 5 599 000 Kč a předchozích 5 699 000 Kč.",
       "id": "bezrealitky-1081095",
@@ -8713,13 +9319,21 @@
           "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1081095-nabidka-prodej-bytu-u-stadionu-mlada-boleslav",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5599000,
+          "area": 64,
+          "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1081095-nabidka-prodej-bytu-u-stadionu-mlada-boleslav",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "alternate_urls": [
         "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/mlada-boleslav-mlada-boleslav-ii-u-stadionu/3728277580"
       ],
       "exclude_reason": null,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "floor": 8,
       "floors": 8
     },
@@ -8737,7 +9351,7 @@
       "ownership": "Osobní",
       "source": "Bezrealitky",
       "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1049644-nabidka-prodej-bytu-lidicka-mnichovo-hradiste",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "observations": [
@@ -8858,11 +9472,19 @@
           "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1049644-nabidka-prodej-bytu-lidicka-mnichovo-hradiste",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 3990000,
+          "area": 59.1,
+          "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1049644-nabidka-prodej-bytu-lidicka-mnichovo-hradiste",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 67513,
       "exclude_reason": null,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "idnes-6ad6065b",
@@ -8878,7 +9500,7 @@
       "ownership": "Osobní",
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/4081324108",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "observations": [
@@ -8975,9 +9597,17 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/4081324108",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4990000,
+          "area": 69.14,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/4081324108",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "exclude_reason": null,
       "price_per_m2_czk": 72172,
       "attempts": [
@@ -8999,7 +9629,7 @@
     {
       "id": "sreality-398590028",
       "property_id": "sreality-398590028",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": "Ověřit čistou plochu 101/103 m² a anuitu; družstevní skupina.",
@@ -9127,10 +9757,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 68812,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "alternate_urls": [
         "https://www.remax-czech.cz/reality/detail/447897/prodej-bytu-4-1-v-druzstevnim-vlastnictvi-101-m2-mlada-boleslav"
       ]
@@ -9138,7 +9776,7 @@
     {
       "id": "remax-447967",
       "property_id": "remax-447967",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": "Rozpory plochy cca 65 / 66 m² a podlaží (text 7. patro / parametr 6), možná shoda s jinou nabídkou není potvrzena. Pokles je mezi načtenými cenami, okamžik skutečné úpravy neznámý.",
@@ -9267,15 +9905,23 @@
           "url": "https://www.remax-czech.cz/reality/detail/447967/prodej-bytu-3-kk-v-osobnim-vlastnictvi-66-m2-mlada-boleslav",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5690000,
+          "area": 66,
+          "url": "https://www.remax-czech.cz/reality/detail/447967/prodej-bytu-3-kk-v-osobnim-vlastnictvi-66-m2-mlada-boleslav",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 86212,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "realitydirect-381",
       "property_id": "realitydirect-381",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": "Vlastnictví nezveřejněno. Půdorys odděluje 60 m² bytu a 20 m² sklepa, cena je za celek.",
@@ -9402,16 +10048,24 @@
           "url": "https://realitydirect.cz/katalog-realit/prodej-bytu-3-kk-po-celkove-rekonstrukci-dukelska-ulice-mlada-boleslav",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5890000,
+          "area": 60,
+          "url": "https://realitydirect.cz/katalog-realit/prodej-bytu-3-kk-po-celkove-rekonstrukci-dukelska-ulice-mlada-boleslav",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 98167,
       "note": " 3.11. podrobné parametry: užitná plocha 60 m² a sklep 20 m²; tabulka celková plocha 80 m² může zahrnovat sklep, vlastnictví nezjištěno.",
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "realitycz-CNF-990475",
       "property_id": "realitycz-CNF-990475",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": "Pronajato; neznámé podmínky nájemní smlouvy.",
@@ -9540,10 +10194,18 @@
           "url": "https://www.reality.cz/prodej/byty/Mlada-Boleslav/CNF-990475/?c=9",
           "verification": "matching_portal_details",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4250000,
+          "area": 39,
+          "url": "https://www.reality.cz/prodej/byty/Mlada-Boleslav/CNF-990475/?c=9",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 108974,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "alternate_urls": [
         "https://www.reality.cz/prodej/Mlada-Boleslav/CNF-990475/?c=14",
         "https://www.sreality.cz/detail/prodej/byt/1%2B1/mlada-boleslav-mlada-boleslav-iii-jicinska/2728714316"
@@ -9564,7 +10226,7 @@
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/bakov-nad-jizerou-buda-/556281932",
       "note": "Částečná rekonstrukce: nové rozvody, štuky. Přeškrtnutá cena 5,45 mil. je údaj portálu, nikoli námi pozorovaná změna ceny.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "first_seen_at": "2026-11-02",
@@ -9673,10 +10335,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/bakov-nad-jizerou-buda-/556281932",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5090000,
+          "area": 68,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/bakov-nad-jizerou-buda-/556281932",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 74853,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-3709870156",
@@ -9693,7 +10363,7 @@
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/3709870156",
       "note": "Od 809287756 se liší zakázkou, makléřem, popisem nájmu a podlažím. Načtené ceny jsou dnes shodné, identita doložena není.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "first_seen_at": "2026-11-02",
@@ -9802,10 +10472,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/3709870156",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4590000,
+          "area": 40,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/3709870156",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 114750,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "ceskereality-3933543",
@@ -9822,7 +10500,7 @@
       "source": "ČESKÉREALITY",
       "url": "https://www.ceskereality.cz/prodej/byty/byty-3-kk/benatky-nad-jizerou/prodej-bytu-3-kk-65-m2-3933543.html",
       "note": "Zakázka 2073, elektro kotel, bojler; garáž, sklep, půda, zahradní sklad a pergola. Soukromé vlastnictví dle detailu.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "first_seen_at": "2026-11-02",
@@ -9931,10 +10609,18 @@
           "url": "https://www.ceskereality.cz/prodej/byty/byty-3-kk/benatky-nad-jizerou/prodej-bytu-3-kk-65-m2-3933543.html",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6390000,
+          "area": 65,
+          "url": "https://www.ceskereality.cz/prodej/byty/byty-3-kk/benatky-nad-jizerou/prodej-bytu-3-kk-65-m2-3933543.html",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 98308,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-2246971468",
@@ -9944,15 +10630,15 @@
       "street": "Pezinská",
       "ownership": "Osobní",
       "condition": "Před rekonstrukcí",
-      "exclude_reason": "7.11.2026 rezervováno dle Sreality i přímé RK FRS MB (00418). Nabídková cena není cenou realizovanou.",
+      "exclude_reason": "Přímý detail FRS MB 00418 nadále rezervovaný. Cena 4 699 000 Kč je poslední dříve pozorovaná nabídková cena.",
       "layout": "2+1",
       "area_m2": 62,
       "price_czk": 4699000,
-      "source": "Sreality",
-      "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-pezinska/2246971468",
+      "source": "FRS MB",
+      "url": "https://www.frsmb.cz/prodej-bytu-2-1-mlada-boleslav-okres-mlada-boleslav-exkluzivne-nabizime-k-prodeji-byt-2-1-v-mlade-boleslavi-pezinska-451",
       "floor": 7,
       "note": "Původní byt, 7. NP z 8, výtah, lodžie a sklep zvlášť po 2 m²; cena včetně provize dle detailu. Skutečnou podlahovou plochu ověřit dokumentací.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "reserved",
       "first_seen_at": "2026-11-03",
@@ -10053,12 +10739,20 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-pezinska/2246971468",
           "verification": "retrieved_detail_may_be_cached",
           "status": "reserved"
+        },
+        {
+          "date": "2026-11-15",
+          "price": null,
+          "area": 62,
+          "url": "https://www.frsmb.cz/prodej-bytu-2-1-mlada-boleslav-okres-mlada-boleslav-exkluzivne-nabizime-k-prodeji-byt-2-1-v-mlade-boleslavi-pezinska-451",
+          "verification": "retrieved_broker_detail_may_be_cached",
+          "status": "reserved"
         }
       ],
       "price_per_m2_czk": 75790,
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "alternate_urls": [
-        "https://www.frsmb.cz/prodej-bytu-2-1-mlada-boleslav-okres-mlada-boleslav-exkluzivne-nabizime-k-prodeji-byt-2-1-v-mlade-boleslavi-pezinska-451"
+        "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-pezinska/2246971468"
       ]
     },
     {
@@ -10077,7 +10771,7 @@
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-purkynova/481960012",
       "floor": null,
       "note": "Kompletní rekonstrukce bytu, balkon a sklep zvlášť po 2 m². Parametr 1. podlaží z 11 vs text 1. patro; podlaží vyžaduje upřesnění, plocha 60 m² shodná. Dne 8. 11. detail opakovaně načten za stejnou cenu.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "first_seen_at": "2026-11-03",
@@ -10178,10 +10872,18 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-purkynova/481960012",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5590000,
+          "area": 60,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-purkynova/481960012",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 93167,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "videobydleni-4419277",
@@ -10199,7 +10901,7 @@
       "url": "https://www.videobydleni.cz/detail/4419277/prodej-bytu-2-1-mlada-boleslav-mlada-boleslav-ii-palackeho-53m2",
       "floor": null,
       "note": "Otevřený detail uvádí osobní vlastnictví, rekonstruovaný byt, plochu 53 m² a 5. patro. Balkony u místností, výtah; čistou plochu ověřit z půdorysu.",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "first_seen_at": "2026-11-03",
@@ -10300,10 +11002,18 @@
           "url": "https://www.videobydleni.cz/detail/4419277/prodej-bytu-2-1-mlada-boleslav-mlada-boleslav-ii-palackeho-53m2",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5790000,
+          "area": 53,
+          "url": "https://www.videobydleni.cz/detail/4419277/prodej-bytu-2-1-mlada-boleslav-mlada-boleslav-ii-palackeho-53m2",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "price_per_m2_czk": 109245,
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-3373338700",
@@ -10315,13 +11025,13 @@
       "price_czk": 5250000,
       "condition": "Po rekonstrukci",
       "ownership": "Osobní",
-      "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-erbenova/3373338700",
+      "url": "https://navratilreality.com/PropertyDetail?id=6acf3cbd12e348aefb3b6bce",
       "exclude_reason": null,
-      "note": "Rekonstruovaný a zařízený byt, 6. NP z 8, výtah, lodžie, sklep. Dnešní detail opakovaně 5,25 mil. Kč; dřívější diskuse uváděla rozdílnou verzi 5,39 mil., v uložené historii nebyla: nehlásím denní zlevnění.",
+      "note": "Vlastní živý detail makléře potvrdil 5 250 000 Kč a 66 m² v titulku, textu i parametrech. Rekonstruovaný a zařízený byt v 6. NP z 8. Na Sreality čitelné verze s 5 400 000 Kč a 5 250 000 Kč. Změna ceny mezi běhy nepotvrzena.",
       "property_id": "sreality-3373338700",
       "location": "Mladá Boleslav – Erbenova",
-      "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "source": "Navrátil Reality",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "price_per_m2_czk": 79545,
@@ -10413,9 +11123,20 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-erbenova/3373338700",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5250000,
+          "area": 66,
+          "url": "https://navratilreality.com/PropertyDetail?id=6acf3cbd12e348aefb3b6bce",
+          "verification": "live_browser_detail",
+          "status": "active"
         }
       ],
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15",
+      "alternate_urls": [
+        "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-erbenova/3373338700"
+      ]
     },
     {
       "id": "sreality-3769241676",
@@ -10433,7 +11154,7 @@
       "property_id": "sreality-3769241676",
       "location": "Mladá Boleslav – Husova",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "price_per_m2_czk": 81806,
@@ -10525,9 +11246,17 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-husova/3769241676",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5890000,
+          "area": 72,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-husova/3769241676",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-2068168780",
@@ -10545,7 +11274,7 @@
       "property_id": "sreality-2068168780",
       "location": "Benátky nad Jizerou – Vaněčkova",
       "source": "Sreality",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "price_per_m2_czk": 57193,
@@ -10637,9 +11366,17 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2068168780",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4890000,
+          "area": 85.5,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2068168780",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "related_offer_ids": [
         "next-N118604"
       ]
@@ -10659,7 +11396,7 @@
       "note": "Původní byt se zděným jádrem, balkonem a lodžií, výtah, 2. NP z 8. Parametr parkování 5 míst nedokládá vlastnictví pěti stání. Detail obsahuje přeškrtnutých 5,6 mil. Kč a aktuálních 5,4 mil. Kč; nemáme předchozí ověřené pozorování, proto nejde o potvrzené denní zlevnění. Historický neověřený záznam Jilemnického 70 m² v archivu nemá konkrétní detail ani prokázanou totožnost, neslučuji. 11. 11. 2026 přímý detail M&M 957404 je znovu dostupný také v živém prohlížeči. Cena, ulice a výměra shodné s původním inzerátem.",
       "property_id": "sreality-2844201036",
       "location": "Mladá Boleslav – Jilemnického",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "source": "M&M Reality",
@@ -10736,9 +11473,17 @@
           "url": "https://www.mmreality.cz/nemovitosti/957404/",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5400000,
+          "area": 72,
+          "url": "https://www.mmreality.cz/nemovitosti/957404/",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "alternate_urls": [
         "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-iii-jilemnickeho/2844201036"
       ]
@@ -10758,7 +11503,7 @@
       "note": "Byt jen částečně rekonstruován podle textu; parametr Po rekonstrukci nesmí vyvolat dojem nové kompletní rekonstrukce. Dům po revitalizaci. 2. NP z 3, vlastní plynový kotel, balkon 2 m². Mimo statistiky; cena z detailu, nikoli z indexu, bez tvrzení denního zdražení.",
       "property_id": "sreality-3734594380",
       "location": "Mladá Boleslav – Sadová",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "source": "Sreality",
@@ -10843,9 +11588,17 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-sadova/3734594380",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4650000,
+          "area": 51.2,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-sadova/3734594380",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-505352268",
@@ -10863,7 +11616,7 @@
       "ownership": "Osobní",
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/505352268",
-      "checked_at": "2026-11-14",
+      "checked_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": "Čistá plocha bytu neznámá: text65,72m² včetně lodžie a sklepa proti titulku65m². Do statistik nevstupuje.",
@@ -10942,9 +11695,17 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/505352268",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5790000,
+          "area": null,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/505352268",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
-      "last_attempt_at": "2026-11-14"
+      "last_attempt_at": "2026-11-15"
     },
     {
       "id": "sreality-4008968268",
@@ -10964,8 +11725,8 @@
       "note": "Původní cihlový byt, 5. NP. Balkon 4 m² a sklep 2 m² zvlášť, celková plocha 68 m² versus užitná 62 m². Možnost 3+kk je tvrzení prodejce, ne ověřený projekt. Revitalizovaný je dům, nikoli byt. Měsíční výdaje 6 300 Kč dle detailu; ověřit výtah, náklady SVJ a skutečnou plochu. Výnos a rekonstrukční rozpočet nezjištěny.",
       "exclude_reason": null,
       "floor": 5,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "first_seen_at": "2026-11-07",
@@ -11029,6 +11790,14 @@
         },
         {
           "date": "2026-11-14",
+          "price": 5190000,
+          "area": 62,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-iii-s-k-neumanna/4008968268",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-15",
           "price": 5190000,
           "area": 62,
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-iii-s-k-neumanna/4008968268",
@@ -11055,8 +11824,8 @@
       "note": "Celková rekonstrukce bytu, užitná 68 m², podlahová včetně příslušenství 71 m² dle parametrů, lodžie, komora a sklep. Zakázka00410. Snížená cena kvůli předání až v létě2028. Není totožné s archivním neověřeným JanaPalacha74m²bez dokladu identity.",
       "exclude_reason": "Výslovná cenová podmínka: předání bytu až v létě 2028. Nesrovnatelné s volným bytem; čistou plochu 68/71m² také doložit.",
       "floor": 4,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "first_seen_at": "2026-11-07",
@@ -11120,6 +11889,14 @@
         },
         {
           "date": "2026-11-14",
+          "price": 5490000,
+          "area": 68,
+          "url": "https://www.frsmb.cz/prodej-bytu-3-1-mlada-boleslav-okres-mlada-boleslav-prodej-bytu-3-1-l-71-m2-jana-palacha-mlada-boleslav-ii-443",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-15",
           "price": 5490000,
           "area": 68,
           "url": "https://www.frsmb.cz/prodej-bytu-3-1-mlada-boleslav-okres-mlada-boleslav-prodej-bytu-3-1-l-71-m2-jana-palacha-mlada-boleslav-ii-443",
@@ -11147,7 +11924,7 @@
       "exclude_reason": "9. 11. 2026 RealityMIX uvádí, že detail 8482453 již není v databázi, a původní M&M 929724 dříve vrátil 404. Poslední ověření 8. 11. zůstává. Skutečný prodej nepotvrzen.",
       "floor": 1,
       "checked_at": "2026-11-08",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "verified": false,
       "status": "unconfirmed",
       "first_seen_at": "2026-11-07",
@@ -11176,8 +11953,8 @@
       "status": "active",
       "first_seen_at": "2026-11-07",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "id": "sreality-3095658572",
       "property_id": "sreality-3095658572",
       "city": "Mladá Boleslav",
@@ -11249,6 +12026,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/3095658572",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4490000,
+          "area": 50,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/3095658572",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -11257,8 +12042,8 @@
       "status": "active",
       "first_seen_at": "2026-11-08",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "id": "sreality-4180148300",
       "property_id": "sreality-4180148300",
       "city": "Mladá Boleslav",
@@ -11331,6 +12116,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-nerudova/4180148300",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5300000,
+          "area": 51,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-nerudova/4180148300",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -11339,8 +12132,8 @@
       "status": "active",
       "first_seen_at": "2026-11-03",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "id": "sreality-680140876",
       "property_id": "sreality-680140876",
       "city": "Mladá Boleslav",
@@ -11413,6 +12206,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-i-zelezna/680140876",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5490000,
+          "area": 65.1,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-i-zelezna/680140876",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "alternate_urls": [
@@ -11425,7 +12226,7 @@
       "first_seen_at": "2026-11-08",
       "baseline": false,
       "checked_at": "2026-11-12",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "id": "sreality-1155993676",
       "property_id": "sreality-1155993676",
       "city": "Mladá Boleslav",
@@ -11490,8 +12291,8 @@
       "status": "active",
       "first_seen_at": "2026-11-08",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "id": "sreality-1880293452",
       "property_id": "sreality-1880293452",
       "city": "Benátky nad Jizerou",
@@ -11565,6 +12366,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/1%2B1/benatky-nad-jizerou-benatky-nad-jizerou-i-drazicka/1880293452",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 2890000,
+          "area": 35,
+          "url": "https://www.sreality.cz/detail/prodej/byt/1%2B1/benatky-nad-jizerou-benatky-nad-jizerou-i-drazicka/1880293452",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -11574,7 +12383,7 @@
       "first_seen_at": "2026-11-08",
       "baseline": false,
       "checked_at": "2026-11-09",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "id": "realt-1175530",
       "property_id": "realt-1175530",
       "city": "Benátky nad Jizerou",
@@ -11616,8 +12425,8 @@
       "status": "reserved",
       "first_seen_at": "2026-11-08",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "id": "ceskereality-3796529",
       "property_id": "ceskereality-3796529",
       "city": "Mnichovo Hradiště",
@@ -11682,6 +12491,14 @@
           "url": "https://zapado.ceskereality.cz/index.php/prodej/byty/byty-3-1/mnichovo-hradiste/prodej-bytu-3-1-69-m2-lidicka-3796529.html",
           "verification": "retrieved_detail_may_be_cached",
           "status": "reserved"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4590000,
+          "area": null,
+          "url": "https://zapado.ceskereality.cz/index.php/prodej/byty/byty-3-1/mnichovo-hradiste/prodej-bytu-3-1-69-m2-lidicka-3796529.html",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "reserved"
         }
       ]
     },
@@ -11690,8 +12507,8 @@
       "status": "active",
       "first_seen_at": "2026-11-08",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "id": "sreality-3327508556",
       "property_id": "sreality-3327508556",
       "city": "Benátky nad Jizerou",
@@ -11769,6 +12586,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/4%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/3327508556",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6250000,
+          "area": 97.2,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/3327508556",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -11786,8 +12611,8 @@
       "ownership": "Osobní",
       "first_seen_at": "2026-11-09",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": null,
@@ -11849,6 +12674,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-jana-palacha/1870266444",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5350000,
+          "area": 43,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-jana-palacha/1870266444",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -11866,8 +12699,8 @@
       "ownership": "Osobní",
       "first_seen_at": "2026-11-09",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": "Rozpor výměry 42 a 45 m² v různých verzích shodného inzerátu.",
@@ -11929,6 +12762,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-17-listopadu/108253260",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4890000,
+          "area": 42,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-17-listopadu/108253260",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -11946,8 +12787,8 @@
       "ownership": "Osobní",
       "first_seen_at": "2026-11-09",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": "Podmíněná nabídková cena a nejednoznačná čistá plocha bez sklepa.",
@@ -12011,6 +12852,14 @@
           "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1086120-nabidka-prodej-bytu-na-radouci-mlada-boleslav",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4990000,
+          "area": null,
+          "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1086120-nabidka-prodej-bytu-na-radouci-mlada-boleslav",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "alternate_urls": [
@@ -12031,8 +12880,8 @@
       "ownership": "Družstevní",
       "first_seen_at": "2026-11-09",
       "baseline": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "verified": true,
       "status": "active",
       "exclude_reason": null,
@@ -12095,6 +12944,14 @@
           "url": "https://www.ceskereality.cz/prodej/byty/byty-2-kk/benatky-nad-jizerou/prodej-bytu-2-kk-59-m2-prazska-3909322.html",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5490000,
+          "area": 59,
+          "url": "https://www.ceskereality.cz/prodej/byty/byty-2-kk/benatky-nad-jizerou/prodej-bytu-2-kk-59-m2-prazska-3909322.html",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12105,8 +12962,8 @@
       "floor": 1,
       "ownership": "Osobní",
       "photos_verified": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-10",
       "baseline": false,
       "verified": true,
@@ -12168,6 +13025,14 @@
           "url": "https://realt.cz/prodej-byt-2-1-stredocesky-kraj-mlada-boleslav-mlada-boleslav-iii-s-k-neumanna-880-2-64-m2-2122606",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4790000,
+          "area": 64,
+          "url": "https://realt.cz/prodej-byt-2-1-stredocesky-kraj-mlada-boleslav-mlada-boleslav-iii-s-k-neumanna-880-2-64-m2-2122606",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12178,8 +13043,8 @@
       "floor": 2,
       "ownership": "Osobní",
       "photos_verified": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-10",
       "baseline": false,
       "verified": true,
@@ -12240,6 +13105,14 @@
           "url": "https://www.realitnieso.cz/detail/prodej/byt/3%2B1/0-m2/mlada-boleslav-ul-smetanova/4429737",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5750000,
+          "area": 82,
+          "url": "https://www.realitnieso.cz/detail/prodej/byt/3%2B1/0-m2/mlada-boleslav-ul-smetanova/4429737",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12250,8 +13123,8 @@
       "floor": 2,
       "ownership": "Osobní",
       "photos_verified": false,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-10",
       "baseline": false,
       "verified": true,
@@ -12313,6 +13186,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-17-listopadu/1938239564",
           "verification": "matching_portal_details",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6790000,
+          "area": 77.3,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-17-listopadu/1938239564",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ],
       "alternate_urls": [
@@ -12327,7 +13208,7 @@
       "ownership": "Osobní",
       "photos_verified": false,
       "checked_at": "2026-11-10",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-10",
       "baseline": false,
       "verified": false,
@@ -12365,8 +13246,8 @@
       "land_area_m2": null,
       "floors": 5,
       "floor": 2,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-11",
       "baseline": false,
       "verified": true,
@@ -12419,6 +13300,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/benatky-nad-jizerou-benatky-nad-jizerou-ii-platanova/3408203852",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5650000,
+          "area": 73.5,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/benatky-nad-jizerou-benatky-nad-jizerou-ii-platanova/3408203852",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12428,8 +13317,8 @@
       "land_area_m2": null,
       "floors": 8,
       "floor": 7,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-11",
       "baseline": false,
       "verified": true,
@@ -12483,6 +13372,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-jana-palacha/2973331532",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5850000,
+          "area": 73,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-jana-palacha/2973331532",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12492,8 +13389,8 @@
       "land_area_m2": null,
       "floors": null,
       "floor": 11,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-11",
       "baseline": false,
       "verified": true,
@@ -12546,6 +13443,14 @@
           "url": "https://andireality.cz/prodej-jana-palacha/",
           "verification": "retrieved_detail_may_be_cached",
           "status": "reserved"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5980000,
+          "area": null,
+          "url": "https://andireality.cz/prodej-jana-palacha/",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "reserved"
         }
       ],
       "advertised_total_area_m2": 73.6,
@@ -12559,8 +13464,8 @@
       "land_area_m2": null,
       "floors": 8,
       "floor": 3,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-11",
       "baseline": false,
       "verified": true,
@@ -12614,6 +13519,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-jana-palacha/370344012",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6300000,
+          "area": null,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-jana-palacha/370344012",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12623,8 +13536,8 @@
       "land_area_m2": null,
       "floors": 3,
       "floor": 3,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-11",
       "baseline": false,
       "verified": true,
@@ -12677,6 +13590,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-i-starofarni/4267184204",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5990000,
+          "area": 67,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-i-starofarni/4267184204",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12686,8 +13607,8 @@
       "land_area_m2": null,
       "floors": 6,
       "floor": 5,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-11",
       "baseline": false,
       "verified": true,
@@ -12742,6 +13663,14 @@
           "url": "https://www.frsmb.cz/prodej-bytu-1-kk-mlada-boleslav-okres-mlada-boleslav-prodej-bytu-1-kk-38-m2-mlada-boleslav-437",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 3072000,
+          "area": null,
+          "url": "https://www.frsmb.cz/prodej-bytu-1-kk-mlada-boleslav-okres-mlada-boleslav-prodej-bytu-1-kk-38-m2-mlada-boleslav-437",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12756,8 +13685,8 @@
       "floor": 3,
       "floors": 3,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-12",
       "baseline": false,
       "verified": true,
@@ -12800,6 +13729,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-palackeho/2295341132",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5500000,
+          "area": null,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-palackeho/2295341132",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12814,8 +13751,8 @@
       "floor": 4,
       "floors": null,
       "ownership": null,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-12",
       "baseline": false,
       "verified": true,
@@ -12856,6 +13793,14 @@
           "url": "https://realt.cz/prodej-byt-2-kk-stredocesky-kraj-benatky-nad-jizerou-40-m2-2329696",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4190000,
+          "area": 40,
+          "url": "https://realt.cz/prodej-byt-2-kk-stredocesky-kraj-benatky-nad-jizerou-40-m2-2329696",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12870,8 +13815,8 @@
       "floor": null,
       "floors": null,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-12",
       "baseline": false,
       "verified": true,
@@ -12913,6 +13858,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mnichovo-hradiste-mnichovo-hradiste-vita-nejedleho/1039822924",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 3690000,
+          "area": 42,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mnichovo-hradiste-mnichovo-hradiste-vita-nejedleho/1039822924",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12925,8 +13878,8 @@
       "floors": 3,
       "floor": 2,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-13",
       "baseline": false,
       "verified": true,
@@ -12965,6 +13918,14 @@
           "url": "https://www.ceskereality.cz/prodej/byty/byty-2-1/mlada-boleslav/prodej-bytu-2-1-68-m2-dukelska-3910738.html",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5190000,
+          "area": 63,
+          "url": "https://www.ceskereality.cz/prodej/byty/byty-2-1/mlada-boleslav/prodej-bytu-2-1-68-m2-dukelska-3910738.html",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -12977,8 +13938,8 @@
       "floors": null,
       "floor": 1,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-13",
       "baseline": false,
       "verified": true,
@@ -13017,6 +13978,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-palackeho/3950841932",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6290000,
+          "area": 74.12,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-palackeho/3950841932",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -13029,8 +13998,8 @@
       "floors": null,
       "floor": null,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-13",
       "baseline": false,
       "verified": true,
@@ -13066,6 +14035,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-iii-trida-t-g-masaryka/914554956",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5920000,
+          "area": 51.5,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-iii-trida-t-g-masaryka/914554956",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -13078,8 +14055,8 @@
       "floors": 3,
       "floor": 3,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-13",
       "baseline": false,
       "verified": true,
@@ -13114,6 +14091,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-laurinova/1932558412",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5490000,
+          "area": 82.9,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-laurinova/1932558412",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -13126,8 +14111,8 @@
       "floors": 6,
       "floor": 2,
       "ownership": "Družstevní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-13",
       "baseline": false,
       "verified": true,
@@ -13162,6 +14147,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/1%2B1/mlada-boleslav-mlada-boleslav-ii-9-kvetna/2420666444",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 3690000,
+          "area": 33.4,
+          "url": "https://www.sreality.cz/detail/prodej/byt/1%2B1/mlada-boleslav-mlada-boleslav-ii-9-kvetna/2420666444",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -13174,8 +14167,8 @@
       "floors": 9,
       "floor": null,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-13",
       "baseline": false,
       "verified": true,
@@ -13210,6 +14203,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2982899788",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5595000,
+          "area": 64,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2982899788",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -13222,8 +14223,8 @@
       "floors": 9,
       "floor": 6,
       "ownership": "Osobní",
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-13",
       "baseline": false,
       "verified": true,
@@ -13261,6 +14262,14 @@
           "url": "https://realitymix.cz/detail/mlada-boleslav/prodej-byty-2-kk-43-m2-u-stadionu-969-mlada-boleslav-ii-29301-mlada-boleslav-mlada-boleslav-i-8739707.html",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 4890000,
+          "area": 43,
+          "url": "https://realitymix.cz/detail/mlada-boleslav/prodej-byty-2-kk-43-m2-u-stadionu-969-mlada-boleslav-ii-29301-mlada-boleslav-mlada-boleslav-i-8739707.html",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -13273,8 +14282,8 @@
       "land_area_m2": null,
       "floor": 4,
       "floors": 8,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-14",
       "baseline": false,
       "verified": true,
@@ -13306,6 +14315,14 @@
           "url": "https://realt.cz/prodej-byt-3-1-stredocesky-kraj-mlada-boleslav-mlada-boleslav-ii-havlickova-1211-82-m2-2139453",
           "verification": "live_browser_detail",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6150000,
+          "area": null,
+          "url": "https://realt.cz/prodej-byt-3-1-stredocesky-kraj-mlada-boleslav-mlada-boleslav-ii-havlickova-1211-82-m2-2139453",
+          "verification": "live_browser_detail",
+          "status": "active"
         }
       ]
     },
@@ -13318,8 +14335,8 @@
       "land_area_m2": null,
       "floor": 7,
       "floors": 9,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-14",
       "baseline": false,
       "verified": true,
@@ -13348,6 +14365,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/2510254156",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6280000,
+          "area": null,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/2510254156",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -13360,8 +14385,8 @@
       "land_area_m2": null,
       "floor": 4,
       "floors": 4,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-14",
       "baseline": false,
       "verified": true,
@@ -13389,6 +14414,14 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/4%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-ii-u-cukrovaru/2351493196",
           "verification": "live_browser_detail",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 8499000,
+          "area": 108,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-ii-u-cukrovaru/2351493196",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     },
@@ -13401,8 +14434,8 @@
       "land_area_m2": null,
       "floor": null,
       "floors": null,
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-14",
       "baseline": false,
       "verified": true,
@@ -13429,6 +14462,14 @@
       "observations": [
         {
           "date": "2026-11-14",
+          "price": 5775000,
+          "area": null,
+          "url": "https://www.realitnieso.cz/detail/prodej/byt/3%2B1/86-m2/mlada-boleslav-ul-palackeho/4431858",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-15",
           "price": 5775000,
           "area": null,
           "url": "https://www.realitnieso.cz/detail/prodej/byt/3%2B1/86-m2/mlada-boleslav-ul-palackeho/4431858",
@@ -13462,8 +14503,8 @@
       "alternate_urls": [
         "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/1891631180"
       ],
-      "checked_at": "2026-11-14",
-      "last_attempt_at": "2026-11-14",
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
       "first_seen_at": "2026-11-14",
       "baseline": false,
       "verified": true,
@@ -13479,15 +14520,110 @@
           "url": "https://www.mmreality.cz/nemovitosti/959030/",
           "verification": "matching_portal_details",
           "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 5490000,
+          "area": null,
+          "url": "https://www.mmreality.cz/nemovitosti/959030/",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "address": null,
+      "land_area_m2": null,
+      "floors": null,
+      "photos_verified": false,
+      "first_seen_at": "2026-11-15",
+      "baseline": false,
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
+      "type": "Byt",
+      "status": "active",
+      "verified": true,
+      "source": "Sreality",
+      "id": "sreality-2123628620",
+      "property_id": "sreality-2123628620",
+      "name": "Resort Na Výsluní, družstevní 2+kk ve výstavbě",
+      "city": "Bakov nad Jizerou",
+      "district": "Bakov nad Jizerou",
+      "street": "Pražská",
+      "floor": 2,
+      "layout": "2+kk",
+      "condition": "Novostavba",
+      "ownership": "Družstevní",
+      "area_m2": null,
+      "advertised_usable_area_m2": 41,
+      "advertised_total_area_m2": 48,
+      "price_czk": 4490586,
+      "price_per_m2_czk": null,
+      "published_headline_price_czk": 1515000,
+      "annuity_czk": 2975586,
+      "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/bakov-nad-jizerou-bakov-nad-jizerou-prazska/2123628620",
+      "exclude_reason": "Inzerovaná cena je první splátka s další anuitou. Bydlení omezené pravidly družstva. Čistá výměra nejednoznačná.",
+      "note": "Celkový náklad z veřejného popisu je 4 250 837 Kč plus odstupné 239 749 Kč, tedy 4 490 586 Kč. První splátka 1 515 000 Kč a anuita 2 975 586 Kč dávají stejný součet. Plocha v parametrech 41 m², v popisu cca 48 m² včetně balkonu cca 10,5 m². Očekávané dokončení koncem 2027.",
+      "observations": [
+        {
+          "date": "2026-11-15",
+          "price": 4490586,
+          "area": null,
+          "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/bakov-nad-jizerou-bakov-nad-jizerou-prazska/2123628620",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active",
+          "published_headline_price_czk": 1515000,
+          "annuity_czk": 2975586
+        }
+      ]
+    },
+    {
+      "address": null,
+      "land_area_m2": null,
+      "floors": null,
+      "photos_verified": false,
+      "first_seen_at": "2026-11-15",
+      "baseline": false,
+      "checked_at": "2026-11-15",
+      "last_attempt_at": "2026-11-15",
+      "type": "Byt",
+      "status": "active",
+      "verified": true,
+      "source": "Sreality",
+      "id": "sreality-2213027916",
+      "property_id": "sreality-2213027916",
+      "name": "Částečně rekonstruovaný byt 3+1, 17. listopadu",
+      "city": "Mladá Boleslav",
+      "district": "Mladá Boleslav II",
+      "street": "17. listopadu",
+      "floor": 5,
+      "layout": "3+1",
+      "condition": "Udržovaný",
+      "ownership": "Osobní",
+      "area_m2": 81.66,
+      "advertised_total_area_m2": 87.44,
+      "price_czk": 5900000,
+      "price_per_m2_czk": 72251,
+      "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-17-listopadu/2213027916",
+      "exclude_reason": null,
+      "note": "Čistá plocha odvozena z 87,44 m² po odečtení lodžie 3,12 m² a sklepa 2,66 m². Byt má zděné jádro a část rozvodů v mědi, úplná rekonstrukce nedoložena. Dům zateplený, s vyměněným výtahem a stoupačkami. Přímý detail uvádí i dřívější přeškrtnutou cenu 6,2 mil. Kč. První ověřený záchyt pod tímto ID. Historický obecný záznam 87 m² ze dne 29. 10. nemá dost znaků pro doložení identity.",
+      "observations": [
+        {
+          "date": "2026-11-15",
+          "price": 5900000,
+          "area": 81.66,
+          "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-17-listopadu/2213027916",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
         }
       ]
     }
   ],
   "github_written": true,
-  "published_at": "2026-11-13T23:59:13Z",
-  "last_successful_check": "2026-11-14",
+  "published_at": "2026-11-14T23:56:33Z",
+  "last_successful_check": "2026-11-15",
   "update_status": "partial",
-  "update_message": "Denní kontrola 14. 11. 2026. Výběrově prověřeno 12 požadovaných zdrojů a místní kanceláře. Přibyli dva kandidáti a pět srovnávacích záznamů. Činžovní objekt u Pražské brány se vrátil pod původním ID. Žádná potvrzená změna nabídkové ceny. Část detailů byla z mezipaměti, omezená HTTP chybou nebo stránkou souhlasů.",
+  "update_message": "Denní kontrola 15. 11. 2026. Výběrově prověřeno 12 požadovaných zdrojů a místní kanceláře. Přibyl jeden rodinný dům, jeden samostatně evidovaný činžovní dům a dva srovnávací byty. Žádná potvrzená změna nabídkové ceny. Pokrytí omezují různé verze detailů, HTTP chyby a stránka souhlasů.",
   "archive": [
     {
       "id": "market-20261029-0",
@@ -14044,16 +15180,16 @@
       "price": 4699000,
       "purchase": 4699000,
       "price_per_m2_czk": 75790,
-      "source": "Sreality",
-      "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-pezinska/2246971468",
-      "checked_at": "2026-11-14",
+      "source": "FRS MB",
+      "url": "https://www.frsmb.cz/prodej-bytu-2-1-mlada-boleslav-okres-mlada-boleslav-exkluzivne-nabizime-k-prodeji-byt-2-1-v-mlade-boleslavi-pezinska-451",
+      "checked_at": "2026-11-15",
       "verified": true,
       "detail_verified": true,
       "photos_verified": true,
       "linkType": "detail-overen",
       "verification_status": "detail_and_gallery_verified",
       "recommended": false,
-      "notes": "Původní byt, 7. NP z 8, výtah, lodžie a sklep zvlášť po 2 m²; cena včetně provize dle detailu. Skutečnou podlahovou plochu ověřit dokumentací. Výhodnost nevyhodnocena; bez rozpočtu rekonstrukce a doložené prodejní ceny. 7.11.2026 rezervace výslovně potvrzena na Sreality i detailu FRS MB (zakázka 00418). Vyřazeno z aktuálního výběru a cenových statistik; není důkaz realizovaného prodeje.",
+      "notes": "Původní byt, 7. NP z 8, výtah, lodžie a sklep zvlášť po 2 m²; cena včetně provize dle detailu. Skutečnou podlahovou plochu ověřit dokumentací. Výhodnost nevyhodnocena; bez rozpočtu rekonstrukce a doložené prodejní ceny. 7.11.2026 rezervace výslovně potvrzena na Sreality i detailu FRS MB (zakázka 00418). Vyřazeno z aktuálního výběru a cenových statistik; není důkaz realizovaného prodeje. 15. 11. zakázka FRS MB stále výslovně rezervována, aktuální cena se v tomto detailu nezobrazuje.",
       "first_seen_at": "2026-11-03",
       "baseline": false,
       "renovation": null,
@@ -14155,25 +15291,33 @@
           "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-pezinska/2246971468",
           "verification": "retrieved_detail_may_be_cached",
           "status": "reserved"
+        },
+        {
+          "date": "2026-11-15",
+          "price": null,
+          "area": 62,
+          "url": "https://www.frsmb.cz/prodej-bytu-2-1-mlada-boleslav-okres-mlada-boleslav-exkluzivne-nabizime-k-prodeji-byt-2-1-v-mlade-boleslavi-pezinska-451",
+          "verification": "retrieved_broker_detail_may_be_cached",
+          "status": "reserved"
         }
       ],
       "priority": 5,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-14",
+      "last_attempt_at": "2026-11-15",
       "status": "reserved",
-      "archive_reason": "7.11.2026 rezervace výslovně potvrzena na Sreality i detailu FRS MB (zakázka 00418). Vyřazeno z aktuálního výběru a cenových statistik; není důkaz realizovaného prodeje.",
+      "archive_reason": "Původní detail Sreality vrátil HTTP 404. Přímý detail FRS MB, zakázka 00418, stále uvádí rezervaci. Poslední zveřejněná nabídková cena v historii. Prodej nebyl potvrzen.",
       "archived_at": "2026-11-07",
       "alternate_urls": [
-        "https://www.frsmb.cz/prodej-bytu-2-1-mlada-boleslav-okres-mlada-boleslav-exkluzivne-nabizime-k-prodeji-byt-2-1-v-mlade-boleslavi-pezinska-451"
+        "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-pezinska/2246971468"
       ]
     }
   ],
   "pipeline": {
-    "last_scheduled_publication": "2026-11-13T23:59:13Z",
+    "last_scheduled_publication": "2026-11-14T23:56:33Z",
     "last_manual_publication": "2026-10-31T18:58:30.455040+00:00",
     "scheduled_publication_status": "published",
-    "note": "Denní kontrola 14. 11. 2026. Výběrové pokrytí a omezení u jednotlivých zdrojů.",
-    "last_attempt_at": "2026-11-13T23:59:13Z",
+    "note": "Denní kontrola 15. 11. 2026. Výběrové pokrytí, omezení jsou uvedena u jednotlivých zdrojů.",
+    "last_attempt_at": "2026-11-14T23:56:33Z",
     "last_attempt_status": "published"
   },
   "run_history": [
@@ -14476,10 +15620,35 @@
       "new_items": 2,
       "archived_unconfirmed": 0,
       "snapshot": "data/history/reality-2026-11-13T23-50-00Z.json"
+    },
+    {
+      "at": "2026-11-14T23:56:33Z",
+      "kind": "naplánovaná",
+      "status": "published",
+      "checked_at": "2026-11-15",
+      "new_investment_properties": 1,
+      "new_additional_objects": 1,
+      "restored_additional_objects": 0,
+      "unconfirmed_additional_objects": 0,
+      "new_comparables": 2,
+      "restored_items": 0,
+      "restored_comparables": 0,
+      "price_changes": 0,
+      "candidate_price_changes": 0,
+      "comparable_price_changes": 0,
+      "unconfirmed_items": 0,
+      "reserved_items": 0,
+      "new_reserved_comparables": 0,
+      "unconfirmed_comparables": 0,
+      "price_conflicts": 1,
+      "note": "Nový vícegenerační dům v Benátkách, nižší priorita vzhledem k roku kolaudace, a odděleně činžovní dům v Mladé Boleslavi. Dva nové srovnávací záznamy, jeden mimo statistiky pro anuitu a rozpornou výměru. U Erbenovy různé aktuálně dostupné verze, živý detail makléře potvrzuje poslední uloženou cenu. Pezinská zůstává rezervována podle přímé kanceláře.",
+      "new_items": 1,
+      "archived_unconfirmed": 0,
+      "snapshot": "data/history/reality-2026-11-14T23-48-25Z.json"
     }
   ],
   "additional_objects_review": {
-    "checked_at": "2026-11-14",
+    "checked_at": "2026-11-15",
     "items": [
       {
         "id": "sreality-354067276",
@@ -14505,7 +15674,7 @@
           "units": 4,
           "permit_verified": false
         },
-        "checked_at": "2026-11-14",
+        "checked_at": "2026-11-15",
         "verified": true,
         "detail_verified": true,
         "photos_verified": true,
@@ -14623,6 +15792,14 @@
             "url": "https://www.sreality.cz/detail/prodej/komercni/cinzovni-dum/kropacova-vrutice-kropacova-vrutice-/354067276",
             "verification": "retrieved_detail_may_be_cached",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": 9900000,
+            "area": 348,
+            "url": "https://www.sreality.cz/detail/prodej/komercni/cinzovni-dum/kropacova-vrutice-kropacova-vrutice-/354067276",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ],
         "distance_to_mb": {
@@ -14632,7 +15809,7 @@
         },
         "source_roi_claim_percent": 3.5,
         "verified_roi_percent": null,
-        "last_attempt_at": "2026-11-14",
+        "last_attempt_at": "2026-11-15",
         "status": "active"
       },
       {
@@ -14641,8 +15818,8 @@
         "land_area_m2": 728,
         "floors": 2,
         "floor": null,
-        "checked_at": "2026-11-14",
-        "last_attempt_at": "2026-11-14",
+        "checked_at": "2026-11-15",
+        "last_attempt_at": "2026-11-15",
         "first_seen_at": "2026-11-11",
         "baseline": false,
         "verified": true,
@@ -14725,6 +15902,14 @@
             "url": "https://www.sreality.cz/detail/prodej/komercni/ubytovani/brezina-brezina-/125358156",
             "verification": "retrieved_detail_may_be_cached",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": 6990000,
+            "area": 478,
+            "url": "https://www.sreality.cz/detail/prodej/komercni/ubytovani/brezina-brezina-/125358156",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ]
       },
@@ -14736,8 +15921,8 @@
         "land_area_m2": null,
         "floors": 2,
         "floor": null,
-        "checked_at": "2026-11-14",
-        "last_attempt_at": "2026-11-14",
+        "checked_at": "2026-11-15",
+        "last_attempt_at": "2026-11-15",
         "first_seen_at": "2026-11-12",
         "baseline": false,
         "verified": true,
@@ -14809,6 +15994,14 @@
             "url": "https://www.remax-czech.cz/reality/detail/444616/prodej-jinych-prostor-skalsko",
             "verification": "retrieved_detail_may_be_cached",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": 9990000,
+            "area": null,
+            "url": "https://www.remax-czech.cz/reality/detail/444616/prodej-jinych-prostor-skalsko",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ]
       },
@@ -14827,8 +16020,8 @@
         "linkType": "detail-overen",
         "first_seen_at": "2026-11-09",
         "baseline": false,
-        "checked_at": "2026-11-14",
-        "last_attempt_at": "2026-11-14",
+        "checked_at": "2026-11-15",
+        "last_attempt_at": "2026-11-15",
         "status": "active",
         "renovation": null,
         "resale": null,
@@ -14910,6 +16103,14 @@
             "url": "https://www.sreality.cz/detail/prodej/komercni/cinzovni-dum/mlada-boleslav-mlada-boleslav-iv-tovacovskeho/1169301580",
             "verification": "retrieved_detail_may_be_cached",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": 22500000,
+            "area": 360,
+            "url": "https://www.sreality.cz/detail/prodej/komercni/cinzovni-dum/mlada-boleslav-mlada-boleslav-iv-tovacovskeho/1169301580",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ]
       },
@@ -14946,7 +16147,7 @@
         "purchase": 14990000,
         "price_per_m2_czk": 49967,
         "source": "Sreality / M&M Reality",
-        "checked_at": "2026-11-14",
+        "checked_at": "2026-11-15",
         "verified": true,
         "detail_verified": true,
         "photos_verified": false,
@@ -14985,10 +16186,18 @@
             "url": "https://www.sreality.cz/detail/prodej/komercni/cinzovni-dum/mlada-boleslav-mlada-boleslav-i-prazska-brana/1782514508",
             "verification": "live_browser_detail",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": 14990000,
+            "area": 300,
+            "url": "https://www.sreality.cz/detail/prodej/komercni/cinzovni-dum/mlada-boleslav-mlada-boleslav-i-prazska-brana/1782514508",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ],
         "priority_basis": "Pořadí technické a právní prověrky; bez podloženého rozpočtu a prodejní ceny není potvrzená ziskovost.",
-        "last_attempt_at": "2026-11-14",
+        "last_attempt_at": "2026-11-15",
         "archived_at": "2026-11-07",
         "archive_category": "additional_object",
         "archive_reason": "7.11.2026 detail při opakovaném otevření HTTP 404. Poslední úspěšné checked_at 6.11. zachováno; zmizení není důkaz prodeje.",
@@ -15007,14 +16216,84 @@
         "archived": false
       },
       {
+        "address": "Staroměstské náměstí 26, Mladá Boleslav (adresa zveřejněná makléřem, alternativní detail uvádí 1/55)",
+        "ownership": null,
+        "land_area_m2": 548,
+        "floor": null,
+        "checked_at": "2026-11-15",
+        "last_attempt_at": "2026-11-15",
+        "first_seen_at": "2026-11-15",
+        "baseline": false,
+        "status": "active",
+        "verified": true,
+        "detail_verified": true,
+        "photos_verified": false,
+        "main_photo_url": null,
+        "recommended": false,
+        "linkType": "detail-overen",
+        "verification_status": "detail_verified",
+        "renovation": null,
+        "other": null,
+        "resale": null,
+        "reserve": 15,
+        "analysisStatus": "nevyhodnoceno",
+        "priority_basis": "Pořadí k technické a právní prověrce. Úplné náklady a návratnost vyžadují doložení.",
+        "id": "next-N116136",
+        "name": "Činžovní dům s pěti byty a obchodem, Staroměstské náměstí",
+        "city": "Mladá Boleslav",
+        "district": "Mladá Boleslav I",
+        "street": "Staroměstské náměstí",
+        "location": "Mladá Boleslav I – Staroměstské náměstí",
+        "type": "Činžovní dům se smíšeným využitím",
+        "layout": "2× 1+kk, 3+kk, 4+1, 2+1 a obchod",
+        "condition": "Velmi dobrý dle parametrů, rozdílný stav bytů",
+        "area": 861,
+        "advertised_total_area_m2": 1031,
+        "floors": 3,
+        "price": 23990000,
+        "purchase": 23990000,
+        "price_per_m2_czk": 27863,
+        "source": "NEXT REALITY HARMONY",
+        "url": "https://www.nextreality.cz/detail/116136/prodej-komercniho-objektu-cinzovni-dum-861-m",
+        "alternate_urls": [
+          "https://realitymix.iprima.cz/detail/8498491/mlada-boleslav/prodej-komercni-cinzovni-dum-861",
+          "https://reality.idnes.cz/detail/prodej/komercni-nemovitost/mlada-boleslav-staromestske-namesti/6984d51f1196e90f6a0d75e6/",
+          "https://realt.cz/prodej-byt-1-kk-stredocesky-kraj-mlada-boleslav-mlada-boleslav-i-staromestske-namesti-1-55-274-m2-488637"
+        ],
+        "priority": 2.1,
+        "notes": "Zakázka N116136. Živý detail makléře a RealityMIX shodně 23 990 000 Kč. Popis uvádí pět existujících bytů a obchod o ploše 274 m², údajně pronajaté. Případných 7–8 bytů je návrh makléře. Rozporné číslo domu a výměry 861 m² obytné, 1 031 m² podlahové a 548 m² v parametrech agregátoru vyžadují ověření. ČESKÉREALITY přebírá 548 m² jako plochu pozemku. Kč/m² počítáno z inzerovaných 861 m². Ověřit vymezení jednotek, nájemní smlouvy, plochy, povolení a podmínky změn v památkové zóně.",
+        "multi_unit_evidence": {
+          "level": "stávající_jednotky_dle_inzerenta",
+          "units": 5,
+          "description": "Pět stávajících bytů popsaných dispozicí. Až 7–8 bytů je předpoklad budoucího rozšíření. Dokumentace nebyla předložena.",
+          "permit_verified": false,
+          "projected_units_min": 7,
+          "projected_units_max": 8
+        },
+        "distance_to_mb": {
+          "approx_air_km": null,
+          "method": "Přímo v centru Mladé Boleslavi I."
+        },
+        "priceHistory": [
+          {
+            "date": "2026-11-15",
+            "price": 23990000,
+            "area": 861,
+            "url": "https://www.nextreality.cz/detail/116136/prodej-komercniho-objektu-cinzovni-dum-861-m",
+            "verification": "live_browser_detail",
+            "status": "active"
+          }
+        ]
+      },
+      {
         "address": null,
         "land_area_m2": 4375,
         "floors": null,
         "floor": null,
         "ownership": null,
         "photos_verified": false,
-        "checked_at": "2026-11-14",
-        "last_attempt_at": "2026-11-14",
+        "checked_at": "2026-11-15",
+        "last_attempt_at": "2026-11-15",
         "first_seen_at": "2026-11-10",
         "baseline": false,
         "verified": true,
@@ -15092,6 +16371,14 @@
             "url": "https://www.remax-czech.cz/reality/detail/425520/prodej-jinych-prostor-lustenice",
             "verification": "retrieved_detail_may_be_cached",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": 8500000,
+            "area": 370,
+            "url": "https://www.remax-czech.cz/reality/detail/425520/prodej-jinych-prostor-lustenice",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ]
       },
@@ -15104,8 +16391,8 @@
         "floors": 3,
         "floor": null,
         "ownership": null,
-        "checked_at": "2026-11-14",
-        "last_attempt_at": "2026-11-14",
+        "checked_at": "2026-11-15",
+        "last_attempt_at": "2026-11-15",
         "first_seen_at": "2026-11-13",
         "baseline": false,
         "verified": true,
@@ -15173,6 +16460,14 @@
             "url": "https://www.sreality.cz/detail/prodej/komercni/cinzovni-dum/zercice-zercice-/3751284812",
             "verification": "retrieved_detail_may_be_cached",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": 6990000,
+            "area": 550,
+            "url": "https://www.sreality.cz/detail/prodej/komercni/cinzovni-dum/zercice-zercice-/3751284812",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ]
       },
@@ -15182,8 +16477,8 @@
         "land_area_m2": 3869,
         "floors": null,
         "floor": null,
-        "checked_at": "2026-11-14",
-        "last_attempt_at": "2026-11-14",
+        "checked_at": "2026-11-15",
+        "last_attempt_at": "2026-11-15",
         "first_seen_at": "2026-11-11",
         "baseline": false,
         "verified": true,
@@ -15261,12 +16556,20 @@
             "url": "https://www.ersreality.cz/prodej-rodinneho-domu-nimerice-okres-mlada-boleslav-zemedelska-usedlost-s-investicnim-potencialem-horni-cetno-683",
             "verification": "retrieved_detail_may_be_cached",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": 8400000,
+            "area": 120,
+            "url": "https://www.ersreality.cz/prodej-rodinneho-domu-nimerice-okres-mlada-boleslav-zemedelska-usedlost-s-investicnim-potencialem-horni-cetno-683",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ]
       },
       {
-        "checked_at": "2026-11-14",
-        "last_attempt_at": "2026-11-14",
+        "checked_at": "2026-11-15",
+        "last_attempt_at": "2026-11-15",
         "verified": true,
         "detail_verified": true,
         "photos_verified": false,
@@ -15379,11 +16682,19 @@
             "url": "https://www.conre.cz/prodej-cinzovniho-domu-mnichovo-hradiste-okres-mlada-boleslav-prodej-bytoveho-domu-289-m2-mnichovo-hradiste-98",
             "verification": "retrieved_detail_may_be_cached",
             "status": "active"
+          },
+          {
+            "date": "2026-11-15",
+            "price": null,
+            "area": 287,
+            "url": "https://www.conre.cz/prodej-cinzovniho-domu-mnichovo-hradiste-okres-mlada-boleslav-prodej-bytoveho-domu-289-m2-mnichovo-hradiste-98",
+            "verification": "retrieved_detail_may_be_cached",
+            "status": "active"
           }
         ]
       }
     ],
-    "notes": "Odděleně činžovní dům Kropáčova Vrutice (cca16km vzdušně) a cenově nevyhodnotitelný bytový dům Havlíčkova1553 v Mnichově Hradišti (cena nezveřejněna, rozporná plocha). HradMBI přesunut do archivu pro opakované404; nikoli prodej. Soubor Vaněčkova 77/1, Benátky I (N118604) je evidován v archivu k prověření kvůli rozdílnému rozsahu převodu a ceně. 9. 11. přibyl činžovní dům Tovačovského se sedmi byty dle inzerátu. U usedlosti Libichov přímá stránka M&M v prohlížeči uvádí vyřazení z nabídky, ač starší zobrazení ukazuje cenu. Do aktivních nebyla přidána. 10. 11. přibyly komerční prostory v Luštěnicích. Usedlost Sezemice se v části starších detailů zobrazuje, Videobydlení ji již uvádí mimo nabídku a živý detail Sreality se neotevřel za stránkou souhlasů. Proto nebyla zařazena. Rozsah převodu Vaněčkovy nadále rozporný. 11. 11. nově bývalá škola Březina (projekt a povolení pouze dle inzerenta) a soubor staveb usedlosti Horní Cetno (starší povolení propadlé). Výnos a náklady nejsou doloženy. 12. 11. nově komerční objekt Skalsko, cca 10 km vzdušně, s pěti projektovanými byty a povolením uváděným makléřem. Stávající výměra nezjištěna. Cena 9,99 mil. Kč v živém detailu makléře. 13. 11. přibyl objekt občanské vybavenosti Žerčice. Až osm bytů je předpoklad makléře, povolení a výměra převáděných parcel nejsou potvrzeny. 14. 11. objekt u Pražské brány znovu ověřen v živém detailu na odlišném URL. Obnoven pod původním ID se zachováním historie; cena zůstává 14,99 mil. Kč, rozpor výměr a počtu podlaží popsán.",
+    "notes": "Odděleně činžovní dům Kropáčova Vrutice (cca16km vzdušně) a cenově nevyhodnotitelný bytový dům Havlíčkova1553 v Mnichově Hradišti (cena nezveřejněna, rozporná plocha). HradMBI přesunut do archivu pro opakované404; nikoli prodej. Soubor Vaněčkova 77/1, Benátky I (N118604) je evidován v archivu k prověření kvůli rozdílnému rozsahu převodu a ceně. 9. 11. přibyl činžovní dům Tovačovského se sedmi byty dle inzerátu. U usedlosti Libichov přímá stránka M&M v prohlížeči uvádí vyřazení z nabídky, ač starší zobrazení ukazuje cenu. Do aktivních nebyla přidána. 10. 11. přibyly komerční prostory v Luštěnicích. Usedlost Sezemice se v části starších detailů zobrazuje, Videobydlení ji již uvádí mimo nabídku a živý detail Sreality se neotevřel za stránkou souhlasů. Proto nebyla zařazena. Rozsah převodu Vaněčkovy nadále rozporný. 11. 11. nově bývalá škola Březina (projekt a povolení pouze dle inzerenta) a soubor staveb usedlosti Horní Cetno (starší povolení propadlé). Výnos a náklady nejsou doloženy. 12. 11. nově komerční objekt Skalsko, cca 10 km vzdušně, s pěti projektovanými byty a povolením uváděným makléřem. Stávající výměra nezjištěna. Cena 9,99 mil. Kč v živém detailu makléře. 13. 11. přibyl objekt občanské vybavenosti Žerčice. Až osm bytů je předpoklad makléře, povolení a výměra převáděných parcel nejsou potvrzeny. 14. 11. objekt u Pražské brány znovu ověřen v živém detailu na odlišném URL. Obnoven pod původním ID se zachováním historie; cena zůstává 14,99 mil. Kč, rozpor výměr a počtu podlaží popsán. 15. 11. přibyl činžovní dům na Staroměstském náměstí v Mladé Boleslavi I. Pět existujících bytů a obchod dle detailu, rozšíření na 7–8 bytů je možné podle makléře a vyžaduje prověrku.",
     "url": "https://www.sreality.cz/detail/prodej/komercni/ubytovani/mlada-boleslav-mlada-boleslav-/3665883212",
     "unconfirmed_ids": [
       "next-N118604"
@@ -15395,7 +16706,7 @@
         "first_seen_at": "2026-11-08",
         "baseline": false,
         "checked_at": null,
-        "last_attempt_at": "2026-11-14",
+        "last_attempt_at": "2026-11-15",
         "id": "next-N118604",
         "name": "Soubor jednotek v činžovním domě, Vaněčkova",
         "city": "Benátky nad Jizerou",
@@ -15522,11 +16833,11 @@
     ]
   },
   "comparable_sample_summary": {
-    "checked_at": "2026-11-14",
+    "checked_at": "2026-11-15",
     "price_type": "nabídkové",
-    "total_records": 76,
-    "eligible_records": 30,
-    "previous_total_records": 71,
+    "total_records": 78,
+    "eligible_records": 31,
+    "previous_total_records": 76,
     "previous_eligible_records": 30,
     "method": "Poslední ověřené pozorování každého bytu do 30 dnů. Skupiny podle města, části, dispozice, stavu a vlastnictví. Pro automatické ocenění je třeba alespoň pět skutečně srovnatelných bytů podobné plochy. Skupina s pěti 2+1 po rekonstrukci v Mladé Boleslavi II pokrývá 51–66 m², při toleranci ±10 % vůči ploše kteréhokoli jejího bytu je ve skupině nejvýše 3 vhodných bytů.",
     "groups": [
@@ -15541,7 +16852,7 @@
         "samples": [
           {
             "property_id": "sreality-809287756",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-havlickova/809287756",
             "area_m2": 40,
             "price_czk": 4590000
@@ -15559,21 +16870,21 @@
         "samples": [
           {
             "property_id": "sreality-226889804",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/226889804",
             "area_m2": 84,
             "price_czk": 6690000
           },
           {
             "property_id": "sreality-1938239564",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-17-listopadu/1938239564",
             "area_m2": 77.3,
             "price_czk": 6790000
           },
           {
             "property_id": "sreality-3950841932",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-palackeho/3950841932",
             "area_m2": 74.12,
             "price_czk": 6290000
@@ -15582,7 +16893,7 @@
       },
       {
         "group": "Mladá Boleslav | Mladá Boleslav II | 3+1 | Udržovaný | Osobní",
-        "n": 3,
+        "n": 4,
         "min_area_m2": 73,
         "max_area_m2": 82.9,
         "reference_price_czk": null,
@@ -15591,24 +16902,31 @@
         "samples": [
           {
             "property_id": "sreality-2475896908",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2475896908",
             "area_m2": 80,
             "price_czk": 6300000
           },
           {
             "property_id": "sreality-2973331532",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-jana-palacha/2973331532",
             "area_m2": 73,
             "price_czk": 5850000
           },
           {
             "property_id": "sreality-1932558412",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-laurinova/1932558412",
             "area_m2": 82.9,
             "price_czk": 5490000
+          },
+          {
+            "property_id": "sreality-2213027916",
+            "checked_at": "2026-11-15",
+            "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/mlada-boleslav-mlada-boleslav-ii-17-listopadu/2213027916",
+            "area_m2": 81.66,
+            "price_czk": 5900000
           }
         ]
       },
@@ -15623,7 +16941,7 @@
         "samples": [
           {
             "property_id": "sreality-2566651980",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2B1/bakov-nad-jizerou-bakov-nad-jizerou-druzstevni/2566651980",
             "area_m2": 59,
             "price_czk": 5850000
@@ -15641,7 +16959,7 @@
         "samples": [
           {
             "property_id": "sreality-134918220",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/bakov-nad-jizerou-bakov-nad-jizerou-zizkova/134918220",
             "area_m2": 58,
             "price_czk": 6290000
@@ -15659,7 +16977,7 @@
         "samples": [
           {
             "property_id": "sreality-2565690956",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mnichovo-hradiste-mnichovo-hradiste-v-cestkach/2565690956",
             "area_m2": 54,
             "price_czk": 5300000
@@ -15677,7 +16995,7 @@
         "samples": [
           {
             "property_id": "sreality-2028593228",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-vaneckova/2028593228",
             "area_m2": 62,
             "price_czk": 3890000
@@ -15695,7 +17013,7 @@
         "samples": [
           {
             "property_id": "sreality-1970679884",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/3%2Bkk/benatky-nad-jizerou-benatky-nad-jizerou-i-krouskeho/1970679884",
             "area_m2": 73.2,
             "price_czk": 5790000
@@ -15713,7 +17031,7 @@
         "samples": [
           {
             "property_id": "bezrealitky-1081095",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1081095-nabidka-prodej-bytu-u-stadionu-mlada-boleslav",
             "area_m2": 64,
             "price_czk": 5599000
@@ -15731,7 +17049,7 @@
         "samples": [
           {
             "property_id": "bezrealitky-1049644",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.bezrealitky.cz/nemovitosti-byty-domy/1049644-nabidka-prodej-bytu-lidicka-mnichovo-hradiste",
             "area_m2": 59.1,
             "price_czk": 3990000
@@ -15749,14 +17067,14 @@
         "samples": [
           {
             "property_id": "idnes-6ad6065b",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/4081324108",
             "area_m2": 69.14,
             "price_czk": 4990000
           },
           {
             "property_id": "sreality-3095658572",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-havlickova/3095658572",
             "area_m2": 50,
             "price_czk": 4490000
@@ -15774,35 +17092,35 @@
         "samples": [
           {
             "property_id": "sreality-481960012",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-purkynova/481960012",
             "area_m2": 60,
             "price_czk": 5590000
           },
           {
             "property_id": "videobydleni-4419277",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.videobydleni.cz/detail/4419277/prodej-bytu-2-1-mlada-boleslav-mlada-boleslav-ii-palackeho-53m2",
             "area_m2": 53,
             "price_czk": 5790000
           },
           {
             "property_id": "sreality-3373338700",
-            "checked_at": "2026-11-14",
-            "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-erbenova/3373338700",
+            "checked_at": "2026-11-15",
+            "url": "https://navratilreality.com/PropertyDetail?id=6acf3cbd12e348aefb3b6bce",
             "area_m2": 66,
             "price_czk": 5250000
           },
           {
             "property_id": "sreality-4180148300",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-nerudova/4180148300",
             "area_m2": 51,
             "price_czk": 5300000
           },
           {
             "property_id": "sreality-2982899788",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-ii-u-stadionu/2982899788",
             "area_m2": 64,
             "price_czk": 5595000
@@ -15820,7 +17138,7 @@
         "samples": [
           {
             "property_id": "sreality-2844201036",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.mmreality.cz/nemovitosti/957404/",
             "area_m2": 72,
             "price_czk": 5400000
@@ -15838,7 +17156,7 @@
         "samples": [
           {
             "property_id": "sreality-4008968268",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-iii-s-k-neumanna/4008968268",
             "area_m2": 62,
             "price_czk": 5190000
@@ -15856,7 +17174,7 @@
         "samples": [
           {
             "property_id": "sreality-680140876",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2B1/mlada-boleslav-mlada-boleslav-i-zelezna/680140876",
             "area_m2": 65.1,
             "price_czk": 5490000
@@ -15874,7 +17192,7 @@
         "samples": [
           {
             "property_id": "sreality-1880293452",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/1%2B1/benatky-nad-jizerou-benatky-nad-jizerou-i-drazicka/1880293452",
             "area_m2": 35,
             "price_czk": 2890000
@@ -15892,7 +17210,7 @@
         "samples": [
           {
             "property_id": "sreality-1870266444",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-ii-jana-palacha/1870266444",
             "area_m2": 43,
             "price_czk": 5350000
@@ -15910,7 +17228,7 @@
         "samples": [
           {
             "property_id": "ceskereality-3909322",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.ceskereality.cz/prodej/byty/byty-2-kk/benatky-nad-jizerou/prodej-bytu-2-kk-59-m2-prazska-3909322.html",
             "area_m2": 59,
             "price_czk": 5490000
@@ -15928,7 +17246,7 @@
         "samples": [
           {
             "property_id": "eso-4429737",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.realitnieso.cz/detail/prodej/byt/3%2B1/0-m2/mlada-boleslav-ul-smetanova/4429737",
             "area_m2": 82,
             "price_czk": 5750000
@@ -15946,7 +17264,7 @@
         "samples": [
           {
             "property_id": "sreality-4267184204",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-i-starofarni/4267184204",
             "area_m2": 67,
             "price_czk": 5990000
@@ -15964,7 +17282,7 @@
         "samples": [
           {
             "property_id": "sreality-914554956",
-            "checked_at": "2026-11-14",
+            "checked_at": "2026-11-15",
             "url": "https://www.sreality.cz/detail/prodej/byt/2%2Bkk/mlada-boleslav-mlada-boleslav-iii-trida-t-g-masaryka/914554956",
             "area_m2": 51.5,
             "price_czk": 5920000
