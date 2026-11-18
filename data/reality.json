@@ -20124,7 +20124,7 @@
     }
   ],
   "github_written": true,
-  "published_at": "2026-11-18T23:57:08Z",
+  "published_at": "2026-11-18T23:59:48Z",
   "last_successful_check": "2026-11-19",
   "update_status": "partial",
   "update_message": "Kontrola 19. 11. 2026: dvě nově ověřené nabídky (2+1 17. listopadu a 3+1 Jilemnického), šest cenových změn (dvě v investičním seznamu, čtyři v porovnávacích podkladech), jeden srovnávací byt obnoven. Prověřeno všech 12 požadovaných zdrojů a místní RK s rozdílnou dostupností; část detailů z mezipaměti, CENTURY 21 HTTP 403, Bidli má starý detail, eReality jen výpis. Výběrová kontrola není úplným pokrytím trhu.",
@@ -20751,11 +20751,11 @@
     }
   ],
   "pipeline": {
-    "last_scheduled_publication": "2026-11-18T23:57:08Z",
-    "last_manual_publication": "2026-10-31T18:58:30.455040+00:00",
+    "last_scheduled_publication": "2026-11-18T00:14:12Z",
+    "last_manual_publication": "2026-11-18T23:59:48Z",
     "scheduled_publication_status": "published",
-    "note": "Denní kontrola 19. 11. 2026, částečné pokrytí zdrojů s konkrétními omezeními. Historie zachována.",
-    "last_attempt_at": "2026-11-18T23:57:08Z",
+    "note": "Vyžádaná kontrola 19. 11. 2026 publikována. Existující denní úloha je aktivní, rozvrh nebyl měněn. Tento vyžádaný zásah neoznačuje samostatný naplánovaný běh.",
+    "last_attempt_at": "2026-11-18T23:59:48Z",
     "last_attempt_status": "published"
   },
   "run_history": [
@@ -21160,8 +21160,8 @@
       "snapshot": "data/history/reality-2026-11-18T00-05-54Z.json"
     },
     {
-      "at": "2026-11-18T23:57:08Z",
-      "kind": "naplánovaná",
+      "at": "2026-11-18T23:59:48Z",
+      "kind": "ruční",
       "status": "published",
       "checked_at": "2026-11-19",
       "new_investment_properties": 2,
@@ -21178,10 +21178,11 @@
       "unconfirmed_comparables": 0,
       "reserved_items": 0,
       "new_reserved_comparables": 0,
-      "note": "Nové 2+1 17. listopadu a 3+1 Jilemnického. Zlevnění dvou Vaněčkových 3+kk a čtyř dalších porovnávacích nabídek, včetně společné ceny bytu a půdy. Jeden srovnávací byt obnoven, tři nedostupné primární URL nahrazeny shodnými alternativními detaily. Dvě nové nabídky mimo cenové statistiky kvůli chybějícím údajům.",
+      "note": "Nové 2+1 17. listopadu a 3+1 Jilemnického. Zlevnění dvou Vaněčkových 3+kk a čtyř dalších porovnávacích nabídek, včetně společné ceny bytu a půdy. Jeden srovnávací byt obnoven, tři nedostupné primární URL nahrazeny shodnými alternativními detaily. Dvě nové nabídky mimo cenové statistiky kvůli chybějícím údajům. Vyžádaný běh; aktuální naplánovaný běh nebyl doložen, datum poslední plánované publikace zachováno.",
       "new_items": 2,
       "archived_unconfirmed": 0,
-      "snapshot": "data/history/reality-2026-11-18T23-36-44Z.json"
+      "snapshot": "data/history/reality-2026-11-18T23-36-44Z.json",
+      "metadata_correction_snapshot": "data/history/reality-2026-11-18T23-59-48Z.json"
     }
   ],
   "additional_objects_review": {
