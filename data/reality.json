@@ -4895,7 +4895,7 @@
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/benatky-nad-jizerou-benatky-nad-jizerou-ii-platanova/3408203852",
       "priority": 30,
-      "notes": "Text výslovně odděluje podlahovou plochu 73,5 m², komoru 2,5 m² naproti bytu a sklep 4 m². Převážně původní interiér a umakartové jádro. Do kuchyně se vstupuje přes koupelnu, dispozice vznikla rozdělením pokoje. Text 1. patro proti parametru 1. podlaží, přesnou úroveň ověřit. Sreality uvádí aktuálně 5,65 mil. Kč, starší kopie RE/MAX 5,85 mil. Kč. Bez předchozího záznamu tohoto bytu není započtena denní změna ceny.",
+      "notes": "Text výslovně odděluje podlahovou plochu 73,5 m², komoru 2,5 m² naproti bytu a sklep 4 m². Převážně původní interiér a umakartové jádro. Do kuchyně se vstupuje přes koupelnu, dispozice vznikla rozdělením pokoje. Text 1. patro proti parametru 1. podlaží, přesnou úroveň ověřit. Dne 20. 11. 2026 Sreality uvádí 5,45 mil. Kč proti dříve ověřeným 5,65 mil. Kč; pokles 200 tis. Kč zapsán v historii. Starší rozdíl oproti kopii RE/MAX 5,85 mil. Kč nebyl samostatnou denní změnou.",
       "purchase": 5450000,
       "price_per_m2_czk": 74150,
       "priceHistory": [
@@ -18482,7 +18482,7 @@
       "price_czk": 5450000,
       "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/benatky-nad-jizerou-benatky-nad-jizerou-ii-platanova/3408203852",
       "source": "Sreality",
-      "note": "Text výslovně odděluje podlahovou plochu 73,5 m², komoru 2,5 m² naproti bytu a sklep 4 m². Převážně původní interiér a umakartové jádro. Do kuchyně se vstupuje přes koupelnu, dispozice vznikla rozdělením pokoje. Text 1. patro proti parametru 1. podlaží, přesnou úroveň ověřit. Sreality uvádí aktuálně 5,65 mil. Kč, starší kopie RE/MAX 5,85 mil. Kč. Bez předchozího záznamu tohoto bytu není započtena denní změna ceny.",
+      "note": "Text výslovně odděluje podlahovou plochu 73,5 m², komoru 2,5 m² naproti bytu a sklep 4 m². Převážně původní interiér a umakartové jádro. Do kuchyně se vstupuje přes koupelnu, dispozice vznikla rozdělením pokoje. Text 1. patro proti parametru 1. podlaží, přesnou úroveň ověřit. Dne 20. 11. 2026 Sreality uvádí 5,45 mil. Kč proti dříve ověřeným 5,65 mil. Kč; pokles 200 tis. Kč zapsán v historii. Starší rozdíl oproti kopii RE/MAX 5,85 mil. Kč nebyl samostatnou denní změnou.",
       "price_per_m2_czk": null,
       "observations": [
         {
@@ -21631,7 +21631,7 @@
     }
   ],
   "github_written": true,
-  "published_at": "2026-11-20T00:08:32Z",
+  "published_at": "2026-11-20T00:09:48Z",
   "last_successful_check": "2026-11-20",
   "update_status": "partial",
   "update_message": "Kontrola 20. 11. 2026: dvě změny nabídkových cen, dvě nová porovnávací pozorování bytů po rekonstrukci, doloženo vlastnictví již sledovaného 2+1. Dva srovnávací byty nepotvrzené a mimo statistiky. Prověřeno 12 požadovaných zdrojů a místní RK; iDNES HTTP 429, CENTURY 21 HTTP 403, Bidli starý detail, eReality výpis. Výběrové pokrytí a část obsahu z mezipaměti.",
@@ -22258,11 +22258,11 @@
     }
   ],
   "pipeline": {
-    "last_scheduled_publication": "2026-11-20T00:08:32Z",
+    "last_scheduled_publication": "2026-11-20T00:09:48Z",
     "last_manual_publication": "2026-11-18T23:59:48Z",
     "scheduled_publication_status": "published",
     "note": "Denní kontrola 20. 11. 2026 publikována s částečným a popsaným pokrytím; historie zachována.",
-    "last_attempt_at": "2026-11-20T00:08:32Z",
+    "last_attempt_at": "2026-11-20T00:09:48Z",
     "last_attempt_status": "published"
   },
   "run_history": [
@@ -22692,7 +22692,7 @@
       "metadata_correction_snapshot": "data/history/reality-2026-11-18T23-59-48Z.json"
     },
     {
-      "at": "2026-11-20T00:08:32Z",
+      "at": "2026-11-20T00:09:48Z",
       "kind": "naplánovaná",
       "status": "published",
       "checked_at": "2026-11-20",
@@ -22712,7 +22712,8 @@
       "note": "Platanová snížena o 200 000 Kč, Komenského o 490 000 Kč oproti uložené ceně; Komenského mimo statistiky. Doloženo vlastnictví již sledovaného 2+1 z 17. listopadu, dva nové rekonstruované 2+1 jako podklady. Dva srovnávací byty nepotvrzené, historie zachována.",
       "new_items": 0,
       "archived_unconfirmed": 0,
-      "snapshot": "data/history/reality-2026-11-20T00-05-44Z.json"
+      "snapshot": "data/history/reality-2026-11-20T00-05-44Z.json",
+      "final_review_snapshot": "data/history/reality-2026-11-20T00-09-48Z.json"
     }
   ],
   "additional_objects_review": {
