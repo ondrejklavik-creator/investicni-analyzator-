@@ -28161,7 +28161,7 @@
     }
   ],
   "github_written": true,
-  "published_at": "2026-11-23T23:43:43Z",
+  "published_at": "2026-11-23T23:45:45Z",
   "last_successful_check": "2026-11-24",
   "update_status": "partial",
   "update_message": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 44 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání, přesunuta do archivu k vyjasnění ceny. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache.",
@@ -28983,14 +28983,14 @@
       "land_area_m2": null,
       "floors": null,
       "floor": 1,
-      "price": null,
-      "purchase": null,
-      "price_per_m2_czk": null,
+      "price": 6950000,
+      "purchase": 6950000,
+      "price_per_m2_czk": 68812,
       "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
       "source": "Sreality",
       "checked_at": "2026-11-23",
       "verified": false,
-      "detail_verified": true,
+      "detail_verified": false,
       "photos_verified": true,
       "recommended": false,
       "verification_status": "detail_and_gallery_verified",
@@ -29221,16 +29221,18 @@
       ],
       "archived": true,
       "archived_at": "2026-11-24",
-      "archive_reason": "Cena nyní na vyžádání a starší RE/MAX má rozpornou cenu. Aktuální číselná kupní cena nepotvrzena; web vyžaduje v aktivním výběru kladnou cenu. Není důkaz prodeje.",
-      "archive_category": "price_unconfirmed"
+      "archive_reason": "Cena nyní na vyžádání a starší RE/MAX má rozpornou cenu. Aktuální číselná kupní cena nepotvrzena; web vyžaduje v aktivním výběru kladnou cenu. Není důkaz prodeje. Archivní price/purchase 6 950 000 Kč jsou poslední ověřená cena z 23. 11., nikoli současná cena; current_price_czk=null. Pozorování 24. 11. bez částky uchováno v historii.",
+      "archive_category": "price_unconfirmed",
+      "current_price_czk": null,
+      "price_is_historical": true
     }
   ],
   "pipeline": {
-    "last_scheduled_publication": "2026-11-23T23:43:43Z",
+    "last_scheduled_publication": "2026-11-23T23:45:45Z",
     "last_manual_publication": "2026-11-18T23:59:48Z",
     "scheduled_publication_status": "published",
     "note": "Kontrola 24. 11. 2026 publikována s výběrovým pokrytím; historie zachována.",
-    "last_attempt_at": "2026-11-23T23:43:43Z",
+    "last_attempt_at": "2026-11-23T23:45:45Z",
     "last_attempt_status": "published"
   },
   "run_history": [
@@ -29757,7 +29759,7 @@
       "snapshot": "data/history/reality-2026-11-22T23-29-52Z.json"
     },
     {
-      "at": "2026-11-23T23:43:43Z",
+      "at": "2026-11-23T23:45:45Z",
       "kind": "naplánovaná",
       "status": "published",
       "checked_at": "2026-11-24",
@@ -29771,7 +29773,7 @@
       "unconfirmed_comparables": 2,
       "comparable_observations_added": 79,
       "snapshot": "data/history/reality-2026-11-23T23-41-40Z.json",
-      "note": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 44 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání, přesunuta do archivu k vyjasnění ceny. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache.",
+      "note": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 44 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání, přesunuta do archivu k vyjasnění ceny. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache. Importní omezení vyřešeno archivací s historickou cenou a starým checked_at, current_price_czk null; kód nezměněn.",
       "archived_unconfirmed": 1
     }
   ],
