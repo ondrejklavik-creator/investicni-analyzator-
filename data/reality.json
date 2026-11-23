@@ -4006,259 +4006,6 @@
       "restored_at": "2026-11-08"
     },
     {
-      "id": "sreality-398590028",
-      "name": "Byt 4+1, tř. Václava Klementa",
-      "city": "Mladá Boleslav",
-      "district": "Mladá Boleslav II",
-      "street": "tř. Václava Klementa",
-      "address": null,
-      "location": "Mladá Boleslav – Mladá Boleslav II",
-      "type": "Byt 4+1",
-      "layout": "4+1",
-      "condition": "Před rekonstrukcí",
-      "ownership": "Družstevní",
-      "area": 101,
-      "land_area_m2": null,
-      "floors": null,
-      "floor": 1,
-      "price": null,
-      "purchase": null,
-      "price_per_m2_czk": null,
-      "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-      "source": "Sreality",
-      "checked_at": "2026-11-24",
-      "verified": true,
-      "detail_verified": true,
-      "photos_verified": true,
-      "recommended": false,
-      "verification_status": "detail_and_gallery_verified",
-      "linkType": "detail-overen",
-      "main_photo_url": null,
-      "priceHistory": [
-        {
-          "date": "2026-11-01",
-          "price": 7450000,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached"
-        },
-        {
-          "date": "2026-11-02",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-03",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-04",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-05",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-06",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-07",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-08",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-09",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-10",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-11",
-          "price": 7450000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-12",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "matching_portal_and_live_broker_detail",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-13",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-14",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-15",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-16",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-17",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-18",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-19",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-20",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active"
-        },
-        {
-          "date": "2026-11-21",
-          "checked_at": "2026-11-21",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active",
-          "condition": "Před rekonstrukcí",
-          "ownership": "Družstevní",
-          "layout": "4+1"
-        },
-        {
-          "date": "2026-11-22",
-          "checked_at": "2026-11-22",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active",
-          "condition": "Před rekonstrukcí",
-          "ownership": "Družstevní",
-          "layout": "4+1"
-        },
-        {
-          "date": "2026-11-23",
-          "checked_at": "2026-11-23",
-          "price": 6950000,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active",
-          "condition": "Před rekonstrukcí",
-          "ownership": "Družstevní",
-          "layout": "4+1"
-        },
-        {
-          "date": "2026-11-24",
-          "checked_at": "2026-11-24",
-          "price": null,
-          "area": 101,
-          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
-          "verification": "retrieved_detail_may_be_cached",
-          "status": "active",
-          "condition": "Před rekonstrukcí",
-          "ownership": "Družstevní",
-          "layout": "4+1"
-        }
-      ],
-      "first_seen_at": "2026-11-01",
-      "baseline": false,
-      "renovation": null,
-      "resale": null,
-      "other": null,
-      "reserve": 15,
-      "analysisStatus": "nevyhodnoceno",
-      "notes": "Družstevní byt; dvě koupelny a WC. Rozdělení na 3+1 a 1+kk jen návrh prodejce, povolení ani souhlas družstva nedoložen. Anuita 28 000, převody 15 000 + 6 000 Kč. Ověřit čistou plochu. Cena 6 950 000 Kč potvrzena živě na přímém detailu RE/MAX a v detailu Sreality, shodná zakázka 320-NP00404. Anuita a uvedené převodní poplatky jsou další náklady. 24. 11. místo 6 950 000 Kč Cena na vyžádání, nejde o číselné zlevnění. Načtená kopie RE/MAX stejné zakázky je stará tři týdny a uvádí 7,45 mil. Kč; tento rozpor není potvrzené zdražení. Aktuální cena zůstává null.",
-      "priority": 19,
-      "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
-      "last_attempt_at": "2026-11-24",
-      "status": "active",
-      "alternate_urls": [
-        "https://www.remax-czech.cz/reality/detail/447897/prodej-bytu-4-1-v-druzstevnim-vlastnictvi-101-m2-mlada-boleslav"
-      ]
-    },
-    {
       "id": "sreality-1561436236",
       "name": "Dvougenerační dům, Komenského",
       "city": "Mnichovo Hradiště",
@@ -28414,10 +28161,10 @@
     }
   ],
   "github_written": true,
-  "published_at": "2026-11-23T23:42:58Z",
+  "published_at": "2026-11-23T23:43:43Z",
   "last_successful_check": "2026-11-24",
   "update_status": "partial",
-  "update_message": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 45 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache.",
+  "update_message": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 44 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání, přesunuta do archivu k vyjasnění ceny. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache.",
   "archive": [
     {
       "id": "market-20261029-0",
@@ -29219,14 +28966,271 @@
       "archived": true,
       "archived_at": "2026-11-22",
       "archive_reason": "Přímý detail M&M 957404 dne 22. 11. výslovně uvádí, že nemovitost již není v nabídce. Poslední skutečné checked_at 21. 11. zachováno. Prodej nepotvrzen."
+    },
+    {
+      "id": "sreality-398590028",
+      "name": "Byt 4+1, tř. Václava Klementa",
+      "city": "Mladá Boleslav",
+      "district": "Mladá Boleslav II",
+      "street": "tř. Václava Klementa",
+      "address": null,
+      "location": "Mladá Boleslav – Mladá Boleslav II",
+      "type": "Byt 4+1",
+      "layout": "4+1",
+      "condition": "Před rekonstrukcí",
+      "ownership": "Družstevní",
+      "area": 101,
+      "land_area_m2": null,
+      "floors": null,
+      "floor": 1,
+      "price": null,
+      "purchase": null,
+      "price_per_m2_czk": null,
+      "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+      "source": "Sreality",
+      "checked_at": "2026-11-23",
+      "verified": false,
+      "detail_verified": true,
+      "photos_verified": true,
+      "recommended": false,
+      "verification_status": "detail_and_gallery_verified",
+      "linkType": "detail-overen",
+      "main_photo_url": null,
+      "priceHistory": [
+        {
+          "date": "2026-11-01",
+          "price": 7450000,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached"
+        },
+        {
+          "date": "2026-11-02",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-03",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-05",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-06",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-07",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-10",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-11",
+          "price": 7450000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-12",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "matching_portal_and_live_broker_detail",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-13",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-14",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-15",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-16",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-19",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-20",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active"
+        },
+        {
+          "date": "2026-11-21",
+          "checked_at": "2026-11-21",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active",
+          "condition": "Před rekonstrukcí",
+          "ownership": "Družstevní",
+          "layout": "4+1"
+        },
+        {
+          "date": "2026-11-22",
+          "checked_at": "2026-11-22",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active",
+          "condition": "Před rekonstrukcí",
+          "ownership": "Družstevní",
+          "layout": "4+1"
+        },
+        {
+          "date": "2026-11-23",
+          "checked_at": "2026-11-23",
+          "price": 6950000,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active",
+          "condition": "Před rekonstrukcí",
+          "ownership": "Družstevní",
+          "layout": "4+1"
+        },
+        {
+          "date": "2026-11-24",
+          "checked_at": "2026-11-24",
+          "price": null,
+          "area": 101,
+          "url": "https://www.sreality.cz/detail/prodej/byt/4%2B1/mlada-boleslav-mlada-boleslav-ii-tr-vaclava-klementa/398590028",
+          "verification": "retrieved_detail_may_be_cached",
+          "status": "active",
+          "condition": "Před rekonstrukcí",
+          "ownership": "Družstevní",
+          "layout": "4+1"
+        }
+      ],
+      "first_seen_at": "2026-11-01",
+      "baseline": false,
+      "renovation": null,
+      "resale": null,
+      "other": null,
+      "reserve": 15,
+      "analysisStatus": "nevyhodnoceno",
+      "notes": "Družstevní byt; dvě koupelny a WC. Rozdělení na 3+1 a 1+kk jen návrh prodejce, povolení ani souhlas družstva nedoložen. Anuita 28 000, převody 15 000 + 6 000 Kč. Ověřit čistou plochu. Cena 6 950 000 Kč potvrzena živě na přímém detailu RE/MAX a v detailu Sreality, shodná zakázka 320-NP00404. Anuita a uvedené převodní poplatky jsou další náklady. 24. 11. místo 6 950 000 Kč Cena na vyžádání, nejde o číselné zlevnění. Načtená kopie RE/MAX stejné zakázky je stará tři týdny a uvádí 7,45 mil. Kč; tento rozpor není potvrzené zdražení. Aktuální cena zůstává null.",
+      "priority": 19,
+      "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
+      "last_attempt_at": "2026-11-24",
+      "status": "unconfirmed",
+      "alternate_urls": [
+        "https://www.remax-czech.cz/reality/detail/447897/prodej-bytu-4-1-v-druzstevnim-vlastnictvi-101-m2-mlada-boleslav"
+      ],
+      "archived": true,
+      "archived_at": "2026-11-24",
+      "archive_reason": "Cena nyní na vyžádání a starší RE/MAX má rozpornou cenu. Aktuální číselná kupní cena nepotvrzena; web vyžaduje v aktivním výběru kladnou cenu. Není důkaz prodeje.",
+      "archive_category": "price_unconfirmed"
     }
   ],
   "pipeline": {
-    "last_scheduled_publication": "2026-11-23T23:42:58Z",
+    "last_scheduled_publication": "2026-11-23T23:43:43Z",
     "last_manual_publication": "2026-11-18T23:59:48Z",
     "scheduled_publication_status": "published",
     "note": "Kontrola 24. 11. 2026 publikována s výběrovým pokrytím; historie zachována.",
-    "last_attempt_at": "2026-11-23T23:42:58Z",
+    "last_attempt_at": "2026-11-23T23:43:43Z",
     "last_attempt_status": "published"
   },
   "run_history": [
@@ -29753,7 +29757,7 @@
       "snapshot": "data/history/reality-2026-11-22T23-29-52Z.json"
     },
     {
-      "at": "2026-11-23T23:42:58Z",
+      "at": "2026-11-23T23:43:43Z",
       "kind": "naplánovaná",
       "status": "published",
       "checked_at": "2026-11-24",
@@ -29767,7 +29771,8 @@
       "unconfirmed_comparables": 2,
       "comparable_observations_added": 79,
       "snapshot": "data/history/reality-2026-11-23T23-41-40Z.json",
-      "note": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 45 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache. Doplněn rozpor pozemku S. K. Neumanna 595/831 m² a starší cenová kopie RE/MAX u Klementy; stejný běh, bez nové denní změny."
+      "note": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 44 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání, přesunuta do archivu k vyjasnění ceny. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache.",
+      "archived_unconfirmed": 1
     }
   ],
   "additional_objects_review": {
