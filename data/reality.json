@@ -4249,7 +4249,7 @@
       "other": null,
       "reserve": 15,
       "analysisStatus": "nevyhodnoceno",
-      "notes": "Družstevní byt; dvě koupelny a WC. Rozdělení na 3+1 a 1+kk jen návrh prodejce, povolení ani souhlas družstva nedoložen. Anuita 28 000, převody 15 000 + 6 000 Kč. Ověřit čistou plochu. Cena 6 950 000 Kč potvrzena živě na přímém detailu RE/MAX a v detailu Sreality, shodná zakázka 320-NP00404. Anuita a uvedené převodní poplatky jsou další náklady. 24. 11. místo 6 950 000 Kč Cena na vyžádání, nejde o číselné zlevnění.",
+      "notes": "Družstevní byt; dvě koupelny a WC. Rozdělení na 3+1 a 1+kk jen návrh prodejce, povolení ani souhlas družstva nedoložen. Anuita 28 000, převody 15 000 + 6 000 Kč. Ověřit čistou plochu. Cena 6 950 000 Kč potvrzena živě na přímém detailu RE/MAX a v detailu Sreality, shodná zakázka 320-NP00404. Anuita a uvedené převodní poplatky jsou další náklady. 24. 11. místo 6 950 000 Kč Cena na vyžádání, nejde o číselné zlevnění. Načtená kopie RE/MAX stejné zakázky je stará tři týdny a uvádí 7,45 mil. Kč; tento rozpor není potvrzené zdražení. Aktuální cena zůstává null.",
       "priority": 19,
       "priority_basis": "Pořadí k technické a právní prověrce; bez doložených rekonstrukčních nákladů a prodejní ceny není ziskovost potvrzena.",
       "last_attempt_at": "2026-11-24",
@@ -5434,7 +5434,7 @@
       "price": 12990000,
       "price_per_m2_czk": 65606,
       "layout": "3+kk a 2+1",
-      "land_area_m2": 831,
+      "land_area_m2": 595,
       "floors": 3,
       "source": "Sreality",
       "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-mlada-boleslav-s-k-neumanna/3218584396",
@@ -5444,7 +5444,7 @@
       "photos_verified": false,
       "recommended": false,
       "verification_status": "detail_verified_gallery_unverified",
-      "notes": "Částečná rekonstrukce; 2 stávající byty, půda potenciálně další 2 podle inzerenta, povolení nedoloženo. Fotografie neověřeny. 9. 11. 2026 iDNES vrátil 403. Přímý detail Sreality se shoduje v ulici, ploše 198 m², pozemku 831 m², ceně 12,99 mil. Kč, dispozicích 3+kk a 2+1 i 114 m² vedlejší stavby. Textový přístup mohl použít cache.",
+      "notes": "Částečná rekonstrukce; 2 stávající byty, půda potenciálně další 2 podle inzerenta, povolení nedoloženo. Fotografie neověřeny. 9. 11. 2026 iDNES vrátil 403. Přímý detail Sreality se shoduje v ulici, ploše 198 m², pozemku 831 m², ceně 12,99 mil. Kč, dispozicích 3+kk a 2+1 i 114 m² vedlejší stavby. Textový přístup mohl použít cache. 24. 11. načtený detail uvádí pozemek 595 m² oproti dříve evidovaným 831 m². Historie zachována; rozsah převáděných parcel ověřit, nejde o změnu ceny.",
       "renovation": null,
       "resale": null,
       "other": null,
@@ -5620,7 +5620,8 @@
           "url": "https://www.sreality.cz/detail/prodej/dum/rodinny/mlada-boleslav-mlada-boleslav-s-k-neumanna/3218584396",
           "verification": "retrieved_detail_may_be_cached",
           "status": "active",
-          "layout": "3+kk a 2+1"
+          "layout": "3+kk a 2+1",
+          "land_area_m2": 595
         }
       ],
       "purchase": 12990000,
@@ -11934,7 +11935,7 @@
       "source": "RE/MAX",
       "checked_at": "2026-11-24",
       "status": "detail",
-      "notes": "Přímé Viničná, Skalsko, Luštěnice a 447967 čitelné, bez zjištěné cenové změny, pokrytí výběrové."
+      "notes": "Přímé Viničná, Skalsko, Luštěnice a 447967 čitelné, bez zjištěné cenové změny, pokrytí výběrové. U 447897 starší kopie 7,45 mil. Kč proti Sreality Cena na vyžádání; nerozhodnuto, cena null."
     },
     {
       "source": "M&M Reality",
@@ -17394,7 +17395,7 @@
       "checked_at": "2026-11-24",
       "verified": true,
       "status": "active",
-      "exclude_reason": "24. 11. Cena na vyžádání; starší cena zachována v observations.",
+      "exclude_reason": "24. 11. Cena na vyžádání; starší cena zachována v observations. Starší kopie RE/MAX uvádí 7,45 mil. Kč; nejde o doloženou denní změnu.",
       "first_seen_at": "2026-11-01",
       "baseline": false,
       "city": "Mladá Boleslav",
@@ -28413,7 +28414,7 @@
     }
   ],
   "github_written": true,
-  "published_at": "2026-11-23T23:41:55Z",
+  "published_at": "2026-11-23T23:42:58Z",
   "last_successful_check": "2026-11-24",
   "update_status": "partial",
   "update_message": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 45 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache.",
@@ -29221,11 +29222,11 @@
     }
   ],
   "pipeline": {
-    "last_scheduled_publication": "2026-11-23T23:41:55Z",
+    "last_scheduled_publication": "2026-11-23T23:42:58Z",
     "last_manual_publication": "2026-11-18T23:59:48Z",
     "scheduled_publication_status": "published",
     "note": "Kontrola 24. 11. 2026 publikována s výběrovým pokrytím; historie zachována.",
-    "last_attempt_at": "2026-11-23T23:41:55Z",
+    "last_attempt_at": "2026-11-23T23:42:58Z",
     "last_attempt_status": "published"
   },
   "run_history": [
@@ -29752,7 +29753,7 @@
       "snapshot": "data/history/reality-2026-11-22T23-29-52Z.json"
     },
     {
-      "at": "2026-11-23T23:41:55Z",
+      "at": "2026-11-23T23:42:58Z",
       "kind": "naplánovaná",
       "status": "published",
       "checked_at": "2026-11-24",
@@ -29766,7 +29767,7 @@
       "unconfirmed_comparables": 2,
       "comparable_observations_added": 79,
       "snapshot": "data/history/reality-2026-11-23T23-41-40Z.json",
-      "note": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 45 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache."
+      "note": "Kontrola 24. 11. 2026: nově starší dům Kordinů 5,95 mil. Kč a odděleně projekt 13 bytů Husovo náměstí 33 mil. Kč. Evidence 45 bytů a domů ve čtyřech městech a 16 dalších objektů. Žádná číselná změna ceny stejné nabídky, Klementa 101 m² nyní Cena na vyžádání. Dva srovnávací záznamy nově nepotvrzené, nikoli prodané; Velké Všelisy ověřeny na alternativním detailu se stejným ID. Přidáno 79 pozorování, 94 srovnávacích podkladů, 32 způsobilých. Prověřeno 12 požadovaných zdrojů a místní RK, výběrové pokrytí; CENTURY 21 403, Bidli staré údaje, část výpisů a cache. Doplněn rozpor pozemku S. K. Neumanna 595/831 m² a starší cenová kopie RE/MAX u Klementy; stejný běh, bez nové denní změny."
     }
   ],
   "additional_objects_review": {
